@@ -1,6 +1,6 @@
 # Project_FdD
 
-Hola!, somos el grupo 2 en esta ocasion este repositorio es para subir nuestro trabajo que realizaremos durante todas las sesiones del curso "Fundamentos de diseños"
+Hola!, somos el grupo 2, en esta ocasion este repositorio es para subir nuestro trabajo que realizaremos durante todas las sesiones del curso "Fundamentos de diseños"
 
 # Integrantes de grupo:
 -Villareal Zapata Liz Nicol (Ing. Ambiental)
@@ -8,3 +8,5 @@ Hola!, somos el grupo 2 en esta ocasion este repositorio es para subir nuestro t
 -Herrera Valeriano Jhunior Fernando (Ing. Informática)
 -Vasquez Nuñez America Mailyn (Ing. Ambiental)
 -Ramos Guelac Maximiliana  (Ing. Ambiental)
+
+.....
