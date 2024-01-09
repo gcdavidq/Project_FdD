@@ -55,14 +55,22 @@ Explicación de la funcionalidad de cada carpeta del repositorio.
 ![file](<![Alt text](<Imagenes/Carpeta-Presentación 1/file.png>)>)
 -Sección en la que encontraremos cada uno de los hitos desde el inicio hasta el final, como tambien habrá información de materiales, informes, fechas, antecedentes y referentes para realizar este trabajo. 
 
+
+
 **Hardware**
 ![hard](<![Alt text](<Imagenes/Carpeta-Presentación 1/Hardware.png>)>)
 -Apartado donde encontraremos materiales toda la parte abstracta del proyecto como tambien algunas fichas técnicas
 
 
+
+
+
 **Imagenes**
 ![img](<![Alt text](<Imagenes/Carpeta-Presentación 1/Pictures.png>)>)
 -Aquí encontraremos imagenes de referencia de todo el proceso de trabajo, como el proceso de inicio a fin del proyecto. 
+
+
+
 
 
 **Software**
