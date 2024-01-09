@@ -1,5 +1,5 @@
 # **PROJECT_FdD** 
-![mario](<https://gihsfilm.weebly.com/uploads/3/1/4/5/31458585/4674444_orig.gif>)
+
 
 ¡Hola!, somos el grupo 2, en esta ocasión este repositorio es para subir nuestro trabajo que realizaremos durante todas las sesiones del curso "Fundamentos de diseños" con el fin de contribuir en el medio ambiente y poder aportar a la comunidad, así mismo poder mejorar calidad de vida de los seres vivos y tener un desarrollo sostenible.
 
