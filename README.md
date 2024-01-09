@@ -1,5 +1,4 @@
 # **PROJECT_FdD** 
-![Bombilla](<https://i.gifer.com/YkAw.gif>)
 
 Hola!, somos el grupo 2, en esta ocasion este repositorio es para subir nuestro trabajo que realizaremos durante todas las sesiones del curso "Fundamentos de diseños"
 
@@ -30,6 +29,15 @@ print("Próximamente")
 -Ramos Guelac Maximiliana,-----------(maximiliana.ramos@upch.pe)-(Ing. Ambiental)
 
 # Cargos
-Liz Nicol Villarreal Zapata Coordinadora de la investigación y gestora del proyecto:  Encargada de coordinar en el ámbito investigativo, asimismo de verificar el cumplimiento de las actividades a realizar fomentando el trabajo y espíritu en equipo
+
+<span style="color:#FF0000;">Liz Villarreal  *"Coordinadora de la investigación y gestora del proyecto"*:  Encargada de coordinar en el ámbito investigativo, asimismo de verificar el cumplimiento de las actividades a realizar fomentando el trabajo y espíritu en equipo</span>
+
+América Vasquez *"Coordinadora del area de redacción y prototipado"*: Encargada del diseño y la elaboración de moldes para la construcción de prototipos. Encargada de verificar que el texto escrito sea coherente y conciso.
+
+Gian Quezada *"Coordinador del área de programación y de la página web"*: Encargado de implementar el lenguaje de programación Python en las diversas áreas de nuestro proyecto, así como también crear, diseñar, distribuir, organizar y editar la pagina web
+
+Maximiliana Ramos *"Coordinadora del área de selección de materiales"*: Encargada del manejo de inventario, la supervisión de productos y materiales e inspección de los envíos de equipos así como también del proceso de selección adecuada de los mismos.
+
+Jhunior Herrera *"Gestor del proyecto"*: Encargado de coordinar y organizar las actividades a realizar durante los procesos de trabajo, así mismo como soporte y apoyo para cada integrante del equipo, ademas contribuyendo con la creatividad y innovacion mejorando y proponiendo para un mejor manejo del trabajo grupal.
 
 ![Imagen del grupo](<Imagenes/Grupo 2.jpeg>)
