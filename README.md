@@ -11,9 +11,9 @@ Hola!, somos el grupo 2, en esta ocasion este repositorio es para subir nuestro 
 # **Integrantes de grupo:**
 -Villareal Zapata Liz Nicol,--------------(liz.villarreal@upch.pe)--------(Ing. Ambiental)
 
--Quezada Marcelino Gian Carlos,------(gian.quezada@upch.pe)-----(Ing. Informática)
+-Quezada Marcelino Gian Carlos,------(gian.quezada@upch.pe)-------(Ing. Informática)
 
--Herrera Valeriano Jhunior Fernando,--(jhunior.herrera@upch.pe)-----(Ing. Informática)
+-Herrera Valeriano Jhunior Fernando,--(jhunior.herrera@upch.pe)----(Ing. Informática)
 
 -Vasquez Nuñez America Mailyn,------(america.vasquez@upch.pe)---(Ing. Ambiental)
 
