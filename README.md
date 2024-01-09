@@ -45,16 +45,26 @@ print("En debate")
 
 # OBJETIVO DE DESARROLLO SOSTENIBLE 
 ![Imagen del grupo](<https://2.bp.blogspot.com/-SsIxQrdrfsQ/XJN_GnOyCnI/AAAAAAAAAOg/0wE0gnCDZI0uqj9FwMlCgBMR1wHry2riQCLcBGAs/s1600/ODS12.JPG>)
+**ODS 12** esta ODS nos permitirá trabajar enfocados en mejorar la calidad de vida generando mejores ganancias  a través de actividades económicas sostenibles reduciendo la uso de los recursos, la degradación y la contaminación.
 
 
 # Contenido
 Explicación de la funcionalidad de cada carpeta del repositorio.
-**Documentación**
-![Imagen del grupo](<![Alt text](<Imagenes/Carpeta-Presentación 1/file.png>)>)
-**Hardware**
-![Imagen del grupo](<![Alt text](<Imagenes/Carpeta-Presentación 1/Hardware.png>)>)
-**Imagenes**
-![Imagen del grupo](<![Alt text](<Imagenes/Carpeta-Presentación 1/Pictures.png>)>)
-**Software**
-![Imagen del grupo](<![Alt text](<Imagenes/Carpeta-Presentación 1/Software.png>)>)
 
+**Documentación**
+![file](<![Alt text](<Imagenes/Carpeta-Presentación 1/file.png>)>)
+-Sección en la que encontraremos cada uno de los hitos desde el inicio hasta el final, como tambien habrá información de materiales, informes, fechas, antecedentes y referentes para realizar este trabajo. 
+
+**Hardware**
+![hard](<![Alt text](<Imagenes/Carpeta-Presentación 1/Hardware.png>)>)
+-Apartado donde encontraremos materiales toda la parte abstracta del proyecto como tambien algunas fichas técnicas
+
+
+**Imagenes**
+![img](<![Alt text](<Imagenes/Carpeta-Presentación 1/Pictures.png>)>)
+-Aquí encontraremos imagenes de referencia de todo el proceso de trabajo, como el proceso de inicio a fin del proyecto. 
+
+
+**Software**
+![soft](<![Alt text](<Imagenes/Carpeta-Presentación 1/Software.png>)>)
+-Contenido de toda la parte de programación, innovacion y todo los funcional.
