@@ -1,6 +1,6 @@
 # **PROJECT_FdD** 
 
-Hola!, somos el grupo 2, en esta ocasion este repositorio es para subir nuestro trabajo que realizaremos durante todas las sesiones del curso "Fundamentos de diseños"
+Hola!, somos el grupo 2, en esta ocasion este repositorio es para subir nuestro trabajo que realizaremos durante todas las sesiones del curso "Fundamentos de diseños" con el fin de contribuir en el medio ambiente y poder aportar a la comunidad, así mismo poder mejorar calidad de vida de los seres vivos y tener un desarrollo sostenible.
 
 
 # UNIVERSIDAD
@@ -13,7 +13,7 @@ Hola!, somos el grupo 2, en esta ocasion este repositorio es para subir nuestro 
 # Proyecto:
 ----------------------------------
 ```python
-print("Próximamente")
+print("En debate")
 
 ```
 
@@ -41,3 +41,7 @@ print("Próximamente")
 **Jhunior Herrera** *"Gestor del proyecto"*: Encargado de coordinar y organizar las actividades a realizar durante los procesos de trabajo, así mismo como soporte y apoyo para cada integrante del equipo, ademas contribuyendo con la creatividad y innovacion mejorando y proponiendo para un mejor manejo del trabajo grupal.
 
 ![Imagen del grupo](<Imagenes/Grupo 2.jpeg>)
+
+
+# OBJETIVO DE DESARROLLO SOSTENIBLE 
+![Imagen del grupo](<https://2.bp.blogspot.com/-SsIxQrdrfsQ/XJN_GnOyCnI/AAAAAAAAAOg/0wE0gnCDZI0uqj9FwMlCgBMR1wHry2riQCLcBGAs/s1600/ODS12.JPG>)
