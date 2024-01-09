@@ -2,15 +2,23 @@
 
 Hola!, somos el grupo 2, en esta ocasion este repositorio es para subir nuestro trabajo que realizaremos durante todas las sesiones del curso "Fundamentos de diseños"
 
+# UNIVERSIDAD
+-Cayetano Heredia
+
+# País
+-Peru, Lima
+
 # **Integrantes de grupo:**
--Villareal Zapata Liz Nicol (Ing. Ambiental)
+-Villareal Zapata Liz Nicol, (liz.villarreal@upch.pe)-(Ing. Ambiental)
 
--Quezada Marcelino Gian Carlos(Ing. Informática)
+-Quezada Marcelino Gian Carlos, (gian.quezada@upch.pe)-(Ing. Informática)
 
--Herrera Valeriano Jhunior Fernando (Ing. Informática)
+-Herrera Valeriano Jhunior Fernando, (jhunior.herrera@upch.pe)-(Ing. Informática)
 
--Vasquez Nuñez America Mailyn (Ing. Ambiental)
+-Vasquez Nuñez America Mailyn, (america.vasquez@upch.pe)-(Ing. Ambiental)
 
--Ramos Guelac Maximiliana  (Ing. Ambiental)
+-Ramos Guelac Maximiliana, (maximiliana.ramos@upch.pe)-(Ing. Ambiental)
 
 ![Imagen del grupo](<Imagenes/Grupo 2.jpeg>)
+
+
