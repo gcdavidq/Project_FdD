@@ -1,4 +1,4 @@
-# **PROJECT_FdD**
+# **PROJECT_FdD** !  [Bombilla](<https://i.gifer.com/YkAw.gif>)
 
 Hola!, somos el grupo 2, en esta ocasion este repositorio es para subir nuestro trabajo que realizaremos durante todas las sesiones del curso "Fundamentos de diseños"
 
@@ -28,6 +28,7 @@ print("Próximamente")
 
 -Ramos Guelac Maximiliana,-----------(maximiliana.ramos@upch.pe)-(Ing. Ambiental)
 
+# Cargos
+Liz Nicol Villarreal Zapata Coordinadora de la investigación y gestora del proyecto:  Encargada de coordinar en el ámbito investigativo, asimismo de verificar el cumplimiento de las actividades a realizar fomentando el trabajo y espíritu en equipo
+
 ![Imagen del grupo](<Imagenes/Grupo 2.jpeg>)
-
-
