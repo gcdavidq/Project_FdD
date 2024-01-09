@@ -12,8 +12,9 @@ Hola!, somos el grupo 2, en esta ocasion este repositorio es para subir nuestro 
 
 # Proyecto:
 ----------------------------------
-'''python
-print("Hola mundo!")
+```python
+print("Próximamente")
+```
 
 # **Integrantes de grupo:**
 -Villareal Zapata Liz Nicol,--------------(liz.villarreal@upch.pe)--------(Ing. Ambiental)
