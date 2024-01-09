@@ -48,4 +48,13 @@ print("En debate")
 
 
 # Contenido
+Explicación de la funcionalidad de cada carpeta del repositorio.
+**Documentación**
+![Imagen del grupo](<![Alt text](<Imagenes/Carpeta-Presentación 1/file.png>)>)
+**Hardware**
+![Imagen del grupo](<![Alt text](<Imagenes/Carpeta-Presentación 1/Hardware.png>)>)
+**Imagenes**
+![Imagen del grupo](<![Alt text](<Imagenes/Carpeta-Presentación 1/Pictures.png>)>)
+**Software**
+![Imagen del grupo](<![Alt text](<Imagenes/Carpeta-Presentación 1/Software.png>)>)
 
