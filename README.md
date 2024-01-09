@@ -53,7 +53,7 @@ Explicación de la funcionalidad de cada carpeta del repositorio.
 
 **Documentación**
 
-![file](<Imagenes/Carpeta-Presentación 1/file.png>)>)
+![file](<Imagenes/Carpeta-Presentación 1/file.png>)
 
 -Sección en la que encontraremos cada uno de los hitos desde el inicio hasta el final, como tambien habrá información de materiales, informes, fechas, antecedentes y referentes para realizar este trabajo. 
 
@@ -61,7 +61,7 @@ Explicación de la funcionalidad de cada carpeta del repositorio.
 
 **Hardware**
 
-![hard](<Imagenes/Carpeta-Presentación 1/Hardware.png>)>)
+![hard](<Imagenes/Carpeta-Presentación 1/Hardware.png>)
 
 -Apartado donde encontraremos materiales toda la parte abstracta del proyecto como tambien algunas fichas técnicas
 
@@ -71,7 +71,7 @@ Explicación de la funcionalidad de cada carpeta del repositorio.
 
 **Imagenes**
 
-![img](<Imagenes/Carpeta-Presentación 1/Pictures.png>)>)
+![img](<Imagenes/Carpeta-Presentación 1/Pictures.png>)
 
 -Aquí encontraremos imagenes de referencia de todo el proceso de trabajo, como el proceso de inicio a fin del proyecto. 
 
@@ -81,6 +81,6 @@ Explicación de la funcionalidad de cada carpeta del repositorio.
 
 **Software**
 
-![soft](<Imagenes/Carpeta-Presentación 1/Software.png>)>)
+![soft](<Imagenes/Carpeta-Presentación 1/Software.png>)
 
 -Contenido de toda la parte de programación, innovacion y todo los funcional.
