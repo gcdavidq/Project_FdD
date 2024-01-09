@@ -1,6 +1,6 @@
 # **PROJECT_FdD** 
 
-Hola!, somos el grupo 2, en esta ocasion este repositorio es para subir nuestro trabajo que realizaremos durante todas las sesiones del curso "Fundamentos de diseños" con el fin de contribuir en el medio ambiente y poder aportar a la comunidad, así mismo poder mejorar calidad de vida de los seres vivos y tener un desarrollo sostenible.
+¡Hola!, somos el grupo 2, en esta ocasión este repositorio es para subir nuestro trabajo que realizaremos durante todas las sesiones del curso "Fundamentos de diseños" con el fin de contribuir en el medio ambiente y poder aportar a la comunidad, así mismo poder mejorar calidad de vida de los seres vivos y tener un desarrollo sostenible.
 
 
 # UNIVERSIDAD
@@ -58,7 +58,6 @@ Explicación de la funcionalidad de cada carpeta del repositorio.
 -Sección en la que encontraremos cada uno de los hitos desde el inicio hasta el final, como tambien habrá información de materiales, informes, fechas, antecedentes y referentes para realizar este trabajo. 
 
 
-
 **Hardware**
 
 ![hard](<Imagenes/Carpeta-Presentación 1/Hardware.png>)
@@ -66,15 +65,11 @@ Explicación de la funcionalidad de cada carpeta del repositorio.
 -Apartado donde encontraremos materiales toda la parte abstracta del proyecto como tambien algunas fichas técnicas
 
 
-
 **Imagenes**
 
 ![img](<Imagenes/Carpeta-Presentación 1/Pictures.png>)
 
 -Aquí encontraremos imagenes de referencia de todo el proceso de trabajo, como el proceso de inicio a fin del proyecto. 
-
-
-
 
 
 **Software**
