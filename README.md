@@ -9,7 +9,7 @@ Hola!, somos el grupo 2, en esta ocasion este repositorio es para subir nuestro 
 -Peru, Lima
 
 # **Integrantes de grupo:**
--Villareal Zapata Liz Nicol,------------(liz.villarreal@upch.pe)----(Ing. Ambiental)
+-Villareal Zapata Liz Nicol,--------------(liz.villarreal@upch.pe)----(Ing. Ambiental)
 
 -Quezada Marcelino Gian Carlos,------(gian.quezada@upch.pe)------(Ing. Informática)
 
