@@ -4,7 +4,9 @@ Hola!, somos el grupo 2, en esta ocasion este repositorio es para subir nuestro 
 
 
 # UNIVERSIDAD
--Cayetano Heredia
+
+-CAYETANO HEREDIA
+![Imagen del grupo](<https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png>)
 
 
 # País
@@ -14,6 +16,7 @@ Hola!, somos el grupo 2, en esta ocasion este repositorio es para subir nuestro 
 ----------------------------------
 ```python
 print("Próximamente")
+
 ```
 
 # **Integrantes de grupo:**
