@@ -67,8 +67,6 @@ Explicación de la funcionalidad de cada carpeta del repositorio.
 
 
 
-
-
 **Imagenes**
 
 ![img](<Imagenes/Carpeta-Presentación 1/Pictures.png>)
@@ -83,4 +81,4 @@ Explicación de la funcionalidad de cada carpeta del repositorio.
 
 ![soft](<Imagenes/Carpeta-Presentación 1/Software.png>)
 
--Contenido de toda la parte de programación, innovacion y todo los funcional.
+-Contenido de toda la parte de programación, innovacion y todo lo funcional.
