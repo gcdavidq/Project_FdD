@@ -1,4 +1,4 @@
-# **PROJECT_FdD** !  [Bombilla](<https://i.gifer.com/YkAw.gif>)
+# **PROJECT_FdD** ![Bombilla](<https://i.gifer.com/YkAw.gif>)
 
 Hola!, somos el grupo 2, en esta ocasion este repositorio es para subir nuestro trabajo que realizaremos durante todas las sesiones del curso "Fundamentos de diseños"
 
