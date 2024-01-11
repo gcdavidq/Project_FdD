@@ -87,4 +87,3 @@ Explicación de la funcionalidad de cada carpeta del repositorio.
 
 
 ![robot](https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-LG.gif)
-liz 
