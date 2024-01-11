@@ -1,0 +1,1 @@
+La documentación es unad e las aprtes mas importantes para el proyecto servirta para la presentacion de fichas técnicas.
