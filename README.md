@@ -41,7 +41,7 @@ print("En debate")
 
 **Jhunior Herrera** *"Gestor del proyecto"*: Encargado de coordinar y organizar las actividades a realizar durante los procesos de trabajo, así mismo como soporte y apoyo para cada integrante del equipo, ademas contribuyendo con la creatividad y innovacion mejorando y proponiendo para un mejor manejo del trabajo grupal.
 
-![Imagen del grupo](<Imagenes/Grupo 2.jpeg>)
+![Imagen del grupo](<Carpetas_del_Proyecto/Imagenes/Grupo 2.jpeg>)
 
 
 # OBJETIVO DE DESARROLLO SOSTENIBLE 
@@ -54,28 +54,28 @@ Explicación de la funcionalidad de cada carpeta del repositorio.
 
 **Documentación**
 
-![file](<Imagenes/Carpeta-Presentación 1/file.png>)
+![File](<Carpetas_del_Proyecto/Imagenes/Carpeta-Presentación 1/file.png>)
 
--Sección en la que encontraremos cada uno de los hitos desde el inicio hasta el final, como tambien habrá información de materiales, informes, fechas, antecedentes y referentes para realizar este trabajo. 
+-Sección en la que encontraremos cada uno de los hitos desde el inicio hasta el final, como tambien habrá información de materiales, informes, fechas, antecedentes y referentes para realizar este trabajo.
 
 
 **Hardware**
 
-![hard](<Imagenes/Carpeta-Presentación 1/Hardware.png>)
+![Hard](<Carpetas_del_Proyecto/Imagenes/Carpeta-Presentación 1/Hardware.png>)
 
 -Apartado donde encontraremos materiales toda la parte abstracta del proyecto como tambien algunas fichas técnicas
 
 
 **Imagenes**
 
-![img](<Imagenes/Carpeta-Presentación 1/Pictures.png>)
+![Img](<Carpetas_del_Proyecto/Imagenes/Carpeta-Presentación 1/file.png>)
 
 -Aquí encontraremos imagenes de referencia de todo el proceso de trabajo, como el proceso de inicio a fin del proyecto. 
 
 
 **Software**
 
-![soft](<Imagenes/Carpeta-Presentación 1/Software.png>)
+![soft](<Carpetas_del_Proyecto/Imagenes/Carpeta-Presentación 1/Software.png>)
 
 -Contenido de toda la parte de programación, innovacion y todo lo funcional.
 
