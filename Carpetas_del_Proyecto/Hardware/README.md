@@ -2,4 +2,4 @@ En esta carpeta se almacenarán archivos relacionados al diseño electrónico, f
 
 
 
-![Hardware](../Imagenes/Hardware.jpeg)
+![Hardware](Hardware.jpeg)

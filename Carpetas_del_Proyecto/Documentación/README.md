@@ -2,4 +2,5 @@ En esta carpeta encontraremos archivos de documentación tales como materiales, 
 
 
 
-![Documentoss](<../Imagenes/Documentos.jpeg>)
+
+![Documentos](Documentos.jpeg)
