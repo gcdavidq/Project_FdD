@@ -1,8 +1,7 @@
 # **PROJECT_FdD** 
 
 
-¡Hola!, somos el grupo 2, en esta ocasión este repositorio es para subir nuestro trabajo que realizaremos durante todas las sesiones del curso "Fundamentos de diseños" con el fin de contribuir en el medio ambiente y poder aportar a la comunidad, así mismo poder mejorar calidad de vida de los seres vivos y tener un desarrollo sostenible.
-
+¡Hola!, somos el grupo N° 02, en esta oportunidad les presentaremos nuestro repositorio, el cual se ha creado con la finalidad de almacenar y publicar el desarrollo de nuestro proyecto que realizaremos durante todas las sesiones en el curso de "Fundamentos de diseños", esto permitirá contribuir desde nuestra posición como estudiantes universitarios en brindar alternativas de solución frente a problemas relacionados con el ambiente y de esa manera aportar a la comunidad y a su cuidado, buscando principalmente una mejor calidad de vida para las especies y un desarrollo sostenible.
 
 # UNIVERSIDAD
 ![Imagen del grupo](<https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png>)
@@ -31,7 +30,7 @@ print("En debate")
 
 # Cargos
 
-**Liz Villarreal**  *"Coordinadora de la investigación y gestora del proyecto"*:  Encargada de coordinar en el ámbito investigativo, asimismo de verificar el cumplimiento de las actividades a realizar fomentando el trabajo y espíritu en equipo
+**Liz Villarreal**  *"Coordinadora de la investigación y gestora del proyecto"*:  Encargada de planificar las actividades por desarrollar dentro del equipo de trabajo y verificar que las fuentes de información e investigación sean de calidad y alta validación con el fin de fomentar el trabajo en equipo y el espíritu investigador.
 
 **América Vasquez** *"Coordinadora del area de redacción y prototipado"*: Encargada del diseño y la elaboración de moldes para la construcción de prototipos. Encargada de verificar que el texto escrito sea coherente y conciso.
 
