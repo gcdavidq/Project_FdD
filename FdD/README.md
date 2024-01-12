@@ -119,5 +119,5 @@ La normativa que rige la evaluación y calificación se encuentra disponible en 
 ## Jefes de practicas: 
 
 ![Img](<Carpetas_del_Proyecto/Imagenes/Carpeta-Presentación 1/file.png>)
-![robot](https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-LG.gif)
+
 
