@@ -2,6 +2,9 @@
 
 
 ¡Hola!, somos el grupo N° 02, en esta oportunidad les presentaremos nuestro repositorio, el cual se ha creado con la finalidad de almacenar y publicar el desarrollo de nuestro proyecto que realizaremos durante todas las sesiones en el curso de "Fundamentos de diseños", esto permitirá contribuir desde nuestra posición como estudiantes universitarios en brindar alternativas de solución frente a problemas relacionados con el ambiente y de esa manera aportar a la comunidad y a su cuidado, buscando principalmente una mejor calidad de vida para las especies y un desarrollo sostenible.
+ 
+*Para conocer más de los integrantes del grupo, de click en el siguiente link*
+![Readme alterno] (https://github.com/gcdavidq/Project_FdD/blob/main/FdD/Entregables/Sobre_Nosotros.md)
 
 # UNIVERSIDAD
 ![Imagen del grupo](<https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png>)
