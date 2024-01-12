@@ -20,7 +20,7 @@ A continuación, se brindará algunas caracteristicas de cada integrante del gru
 **Rol que desempeñará:** *"Coordinador de electronica y manufuctura"*: Encargado del hardware, manipulación y  gestión de la materiales que se utilizaran durante este proyecto, director de prubas y control de calidad que proporcinen mejores hablididades para diseñar y mejorar con base de prueba y error para ofrecer una garantia plena, encargado del mantenimiento y resolución de problemas asi como de seguridad para el equipo.
 
 **Imagen Referencial**
-![Imagen Jhunior](<Carpetas_del_Proyecto/Imagenes/Nosotros/Jhunior.jpeg>)
+![Imagen Jhunior](https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Nosotros/Liz.jpeg)
 
 ### Quezada Marceliano Gian Carlos
 
