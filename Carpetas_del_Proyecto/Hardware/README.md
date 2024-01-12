@@ -2,4 +2,4 @@ En esta carpeta se almacenarán archivos relacionados al diseño electrónico, f
 
 
 
-![Hardware](Hardware.jpeg)
+![Hardware](https://images.app.goo.gl/P2S3X25rU5ahaDTc6.jpeg)
