@@ -46,13 +46,13 @@ Estudiante de la carrera de Ingenieria Informatica interesado en un enfoque en e
 *"Coordinador del área de programación y de la página web"*: Encargado de implementar el lenguaje de programación Python en las diversas áreas de nuestro proyecto, así como también crear, diseñar, distribuir, organizar y editar la pagina web
 
 
-
-
-
 **Imagen Referencial**
+
+
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Nosotros/Gian.jpeg" alt="imagen del grupo" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Participantes_photos/Gian.jpeg" alt="imagen del grupo" width="300px"/>
 </p>
+
 
 ### Ramos Guelac Maximiliana
 
@@ -73,8 +73,9 @@ Me considero como persona empática, honesta y sobre todo me gusta trabajar en e
 **Imagen Referencial**
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Nosotros/Maxi.jpeg" alt="imagen del grupo" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Participantes_photos/Maxi.jpeg" alt="imagen del grupo" width="300px"/>
 </p>
+
 
 ### Vazques Nuñez Maylin 
 
@@ -92,7 +93,7 @@ Estudiante de la carrera de Ingeniería Ambiental  interesada en el rubro de res
 
 **Imagen Referencial**
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Nosotros/Maylin.jpeg" alt="imagen del grupo" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Participantes_photos/Maylin.jpeg" alt="imagen del grupo" width="300px"/>
 </p>
 
 
@@ -113,7 +114,7 @@ Estudiante de la carrera de Ingeniería Ambiental, interesada en el rubro de la 
 **Imagen Referencial**
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Nosotros/Liz.jpeg" alt="imagen del grupo" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Participantes_photos/Liz.jpeg" alt="imagen del grupo" width="300px"/>
 </p>
 
 ## ¿Quienes somos?
