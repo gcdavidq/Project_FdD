@@ -21,10 +21,9 @@ A continuación, se brindará algunas caracteristicas de cada integrante del gru
 
 **Imagen Referencial**
 
-![Imagen Jhunior](https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Nosotros/Liz.jpeg)
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Nosotros/Liz.jpeg" alt="imagen del grupo" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Nosotros/Jhunior.jpeg" alt="imagen del grupo" width="300px"/>
 </p>
 
 
@@ -37,7 +36,9 @@ A continuación, se brindará algunas caracteristicas de cada integrante del gru
 **Breve Descripción:** Estudiante de la carrera de Ingenieria Informatica interesado en un enfoque en el area de Ciberseguridad y ciencia de Datos. Tengo como principal proposito ayudar y mejorar los sistemas y programas que ofrecen tanto empresas publicas y privadas con el fin de evitar que sean vulnerables. Entre las habilidades mias que destaco están el trabajo en equipo, ser social y ser capáz de brindar solucion a todo tipo de dificultades que se nos presente. Me gusta leer, escuchar musica y practicar deporte. 
 
 **Imagen Referencial**
-![Imagen Jhunior](<Carpetas_del_Proyecto/Imagenes/Nosotros/Gian.jpeg>)
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Nosotros/Gian.jpeg" alt="imagen del grupo" width="300px"/>
+</p>
 
 ### Ramos Guelac Maximiliana
 
@@ -57,7 +58,9 @@ Me considero como persona empática, honesta y sobre todo me gusta trabajar en e
 
 **Imagen Referencial**
 
-![Imagen Jhunior](<Carpetas_del_Proyecto/Imagenes/Nosotros/Maxi.jpeg>)
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Nosotros/Maxi.jpeg" alt="imagen del grupo" width="300px"/>
+</p>
 
 ### Vazques Nuñez Maylin 
 
@@ -72,7 +75,9 @@ Estudiante de la carrera de Ingeniería Ambiental  interesada en el rubro de res
 *"Coordinadora del area de redacción y prototipado"*: Encargada del diseño y la elaboración de moldes para la construcción de prototipos. Encargada de verificar que el texto escrito sea coherente y conciso.
 
 **Imagen Referencial**
-![Imagen Jhunior](<Carpetas_del_Proyecto/Imagenes/Nosotros/Maylin.jpeg>)
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Nosotros/Maylin.jpeg" alt="imagen del grupo" width="300px"/>
+</p>
 
 
 ### Villareal Zapata Liz
@@ -89,7 +94,9 @@ Estudiante de la carrera de Ingeniería Ambiental, interesada en el rubro de la 
 
 **Imagen Referencial**
 
-![Imagen Jhunior](<Carpetas_del_Proyecto/Imagenes/Nosotros/Liz.jpeg>)
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Nosotros/Liz.jpeg" alt="imagen del grupo" width="300px"/>
+</p>
 
 ## ¿Quienes somos?
 
