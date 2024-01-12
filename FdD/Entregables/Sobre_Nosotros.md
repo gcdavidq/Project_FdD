@@ -83,7 +83,8 @@ Liz Villarreal Zapata estudiante de la carrera de Ingeniería Ambiental, interes
 *"Coordinadora de la investigación y gestora del proyecto"*:  Encargada de planificar las actividades por desarrollar dentro del equipo de trabajo y verificar que las fuentes de información e investigación sean de calidad y alta validación con el fin de fomentar el trabajo en equipo y el espíritu investigador.
 
 **Imagen Referencial**
-![Imagen Jhunior](<Carpetas_del_Proyecto/Imagenes/Nosotros/Liz.jpeg>)
+
+[Imagen Jhunior](<Carpetas_del_Proyecto/Imagenes/Nosotros/Liz.jpeg>)
 
 ## ¿Quienes somos?
 
