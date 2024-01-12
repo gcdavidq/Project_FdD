@@ -6,7 +6,7 @@
  
 *¿Quieres saber más sobre los participantes de este proyecto?*
 
-[Sobre Nosotros](https://github.com/gcdavidq/Project_FdD/blob/main/FdD/Entregables/Sobre_Nosotros.md)
+[Sobre Nosotros](https://github.com/gcdavidq/Project_FdD/blob/main/FdD/Entregables/1.-Sobre_Nosotros.md)
 
 # UNIVERSIDAD
 ![Imagen del grupo](<https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png>)
@@ -24,31 +24,7 @@ print("En debate")
 
 ```
 
-# **Integrantes de grupo:**
--Villareal Zapata Liz Nicol,--------------(liz.villarreal@upch.pe)--------(Ing. Ambiental)
-
--Quezada Marcelino Gian Carlos,------(gian.quezada@upch.pe)------(Ing. Informática)
-
--Herrera Valeriano Jhunior Fernando,--(jhunior.herrera@upch.pe)----(Ing. Informática)
-
--Vasquez Nuñez America Mailyn,------(america.vasquez@upch.pe)---(Ing. Ambiental)
-
--Ramos Guelac Maximiliana,-----------(maximiliana.ramos@upch.pe)-(Ing. Ambiental)
-
-# Cargos
-
-**Liz Villarreal**  *"Coordinadora de la investigación y gestora del proyecto"*:  Encargada de planificar las actividades por desarrollar dentro del equipo de trabajo y verificar que las fuentes de información e investigación sean de calidad y alta validación con el fin de fomentar el trabajo en equipo y el espíritu investigador.
-
-**América Vasquez** *"Coordinadora del area de redacción y prototipado"*: Encargada del diseño y la elaboración de moldes para la construcción de prototipos. Encargada de verificar que el texto escrito sea coherente y conciso.
-
-**Gian Quezada** *"Coordinador del área de programación y de la página web"*: Encargado de implementar el lenguaje de programación Python en las diversas áreas de nuestro proyecto, así como también crear, diseñar, distribuir, organizar y editar la pagina web
-
-**Maximiliana Ramos** *"Coordinadora del área de selección de materiales"*: Encargada del manejo de inventario, la supervisión de productos y materiales e inspección de los envíos de equipos así como también del proceso de selección adecuada de los mismos.
-
-**Jhunior Herrera** *"Coordinador de electronica y manufuctura"*: Encargado del hardware, manipulación y  gestión de la materiales que se utilizaran durante este proyecto, director de prubas y control de calidad que proporcinen mejores hablididades para diseñar y mejorar con base de prueba y error para ofrecer una garantia plena, encargado del mantenimiento y resolución de problemas asi como de seguridad para el equipo.
-
-![Imagen del grupo](<Carpetas_del_Proyecto/Imagenes/Grupo 2.jpeg>)
-
+![Imagen del grupo](<Carpetas_del_Proyecto/Imagenes/Participantes_photos/Grupo 2.jpeg>)
 
 # OBJETIVO DE DESARROLLO SOSTENIBLE 
 ![Imagen del grupo](<https://2.bp.blogspot.com/-SsIxQrdrfsQ/XJN_GnOyCnI/AAAAAAAAAOg/0wE0gnCDZI0uqj9FwMlCgBMR1wHry2riQCLcBGAs/s1600/ODS12.JPG>)
@@ -77,14 +53,6 @@ Es por ello, dicha ODS tiene como objetivo promover el uso responsable y eficien
 -Pardellans, J. P., Pedemonte, J. C. C., & Layret, J. L. (1994). Sistema de Archivo y Comunicación de Imagen en Radiología. Radiología, 67-76.
 
 -Equipo editorial, Etecé. (2023, 19 noviembre).
-
-
-
-
-
-
-
-
 
 
 
