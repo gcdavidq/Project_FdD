@@ -17,7 +17,7 @@ En el presente formato, se darán a conocer pautas detalladas sobre los aspectos
 ## Sumilla:
 La asignatura de Fundamentos de Diseño es de naturaleza teórico - práctica y pertenece al área de formación específica. Tiene como objetivo desarrollar en el estudiante competencias para diseñar, implementar, verificar, patentar y operar proyectos de innovación. Comprende el siguiente contenido: identificar la necesidad o problema, crear conceptos de solución, implementar la solución, comunicar los resultados.
 
-## Descrpición de la Asignatura: 
+## Descripción de la Asignatura: 
 En este curso se presenta a los estudiantes desafíos reales basados en problemáticas ambientales dentro del contexto nacional. Se le brindará al estudiante conocimientos, como el uso de dispositivos IoT e impresión 3D que le permitan crear soluciones a los problemas identificados. Haciendo uso de las metodologías del diseño determinístico y design thinking, el alumno podrá identificar y analizar necesidades, diseñar conceptos de solución y crear prototipos innovadores de baja resolución usando fabricación digital.
 
 ## Resultados de Aprendizaje: 
