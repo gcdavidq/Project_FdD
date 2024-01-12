@@ -3,4 +3,4 @@ En esta carpeta encontraremos archivos de documentación tales como materiales, 
 
 
 
-![Documentos](https://images.app.goo.gl/Tz9UKZpFxQ7XENE27.jpeg)
+![Documentos](<https://images.app.goo.gl/Tz9UKZpFxQ7XENE27.jpeg>)
