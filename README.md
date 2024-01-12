@@ -48,6 +48,7 @@ print("En debate")
 # OBJETIVO DE DESARROLLO SOSTENIBLE 
 ![Imagen del grupo](<https://2.bp.blogspot.com/-SsIxQrdrfsQ/XJN_GnOyCnI/AAAAAAAAAOg/0wE0gnCDZI0uqj9FwMlCgBMR1wHry2riQCLcBGAs/s1600/ODS12.JPG>)
 fuente: https://2.bp.blogspot.com/-SsIxQrdrfsQ/XJN_GnOyCnI/AAAAAAAAAOg/0wE0gnCDZI0uqj9FwMlCgBMR1wHry2riQCLcBGAs/s1600/ODS12.JPG
+
 **ODS 12** esta ODS nos permitirá trabajar enfocados en mejorar la calidad de vida generando mejores ganancias  a través de actividades económicas sostenibles reduciendo la uso de los recursos, la degradación y la contaminación.
 
 
