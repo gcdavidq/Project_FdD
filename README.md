@@ -5,6 +5,8 @@
 
 # UNIVERSIDAD
 ![Imagen del grupo](<https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png>)
+
+
 fuente: https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png
 
 # País
@@ -76,6 +78,7 @@ Explicación de la funcionalidad de cada carpeta del repositorio.
 **Software**
 
 ![soft](<Carpetas_del_Proyecto/Imagenes/Carpeta-Presentación 1/Software.png>)
+
 
 -Contenido de toda la parte de programación, innovacion y todo lo funcional.
 
