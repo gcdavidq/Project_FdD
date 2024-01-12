@@ -5,7 +5,7 @@
 
 # UNIVERSIDAD
 ![Imagen del grupo](<https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png>)
-
+fuente: https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png
 
 # País
 -Peru, Lima
@@ -38,13 +38,14 @@ print("En debate")
 
 **Maximiliana Ramos** *"Coordinadora del área de selección de materiales"*: Encargada del manejo de inventario, la supervisión de productos y materiales e inspección de los envíos de equipos así como también del proceso de selección adecuada de los mismos.
 
-**Jhunior Herrera** *"Gestor del proyecto"*: Encargado de coordinar y organizar las actividades a realizar durante los procesos de trabajo, así mismo como soporte y apoyo para cada integrante del equipo, ademas contribuyendo con la creatividad y innovacion mejorando y proponiendo para un mejor manejo del trabajo grupal.
+**Jhunior Herrera** *"Coordinador de electronica y manufuctura"*: Encargado del hardware, manipulación y  gestión de la materiales que se utilizaran durante este proyecto, director de prubas y control de calidad que proporcinen mejores hablididades para diseñar y mejorar con base de prueba y error para ofrecer una garantia plena, encargado del mantenimiento y resolución de problemas asi como de seguridad para el equipo.
 
 ![Imagen del grupo](<Carpetas_del_Proyecto/Imagenes/Grupo 2.jpeg>)
 
 
 # OBJETIVO DE DESARROLLO SOSTENIBLE 
 ![Imagen del grupo](<https://2.bp.blogspot.com/-SsIxQrdrfsQ/XJN_GnOyCnI/AAAAAAAAAOg/0wE0gnCDZI0uqj9FwMlCgBMR1wHry2riQCLcBGAs/s1600/ODS12.JPG>)
+fuente: https://2.bp.blogspot.com/-SsIxQrdrfsQ/XJN_GnOyCnI/AAAAAAAAAOg/0wE0gnCDZI0uqj9FwMlCgBMR1wHry2riQCLcBGAs/s1600/ODS12.JPG
 **ODS 12** esta ODS nos permitirá trabajar enfocados en mejorar la calidad de vida generando mejores ganancias  a través de actividades económicas sostenibles reduciendo la uso de los recursos, la degradación y la contaminación.
 
 
