@@ -71,12 +71,11 @@ Estudiante de la carrera de Ingeniería Ambiental  interesada en el rubro de res
 
 ### Villareal Zapata Liz
 
-**Carrera:** Ing. Informatica
-
+**Carrera:** Ing. Ambiental
 **Edad:** 19
 
 **Breve Descripción:** 
-Liz Villarreal Zapata estudiante de la carrera de Ingeniería Ambiental, interesada en el rubro de la conservación y restauración de la flora y fauna de nuestro país y sus alrededores. En mis tiempos libres me gusta escuchar música, leer y/o pintar, en especial me gusta pintar paisajes y atardeceres,  asimismo, me gusta estar en contacto con la naturaleza y caminar por el parque. Me considero una persona amigable y solidaria con los demás.
+Estudiante de la carrera de Ingeniería Ambiental, interesada en el rubro de la conservación y restauración de la flora y fauna de nuestro país y sus alrededores. En mis tiempos libres me gusta escuchar música, leer y/o pintar, en especial me gusta pintar paisajes y atardeceres,  asimismo, me gusta estar en contacto con la naturaleza y caminar por el parque. Me considero una persona amigable y solidaria con los demás.
 
 **Rol que desempeñará:**
 
@@ -84,7 +83,7 @@ Liz Villarreal Zapata estudiante de la carrera de Ingeniería Ambiental, interes
 
 **Imagen Referencial**
 
-[Imagen Jhunior](<Carpetas_del_Proyecto/Imagenes/Nosotros/Liz.jpeg>)
+![Imagen Jhunior](<Carpetas_del_Proyecto/Imagenes/Nosotros/Liz.jpeg>)
 
 ## ¿Quienes somos?
 
@@ -94,5 +93,5 @@ Somos un grupo de estudiantes que tienen el deseo de aportar un granito de arena
 Generar un prototipo que ayude y permita a la sociedad Peruana ser responsable en el tema del consumo de alimentos.
 
 ## Nuestra Visión:
-Disminuir en gran medida el consumo de alimentos que tienen las familias y con ello...
+Disminuir en gran medida el consumo de alimentos que tienen las familias y con ello...!
 
