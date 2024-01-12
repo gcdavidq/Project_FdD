@@ -114,9 +114,9 @@ La normativa que rige la evaluación y calificación se encuentra disponible en 
 1. Catalano GD, Catalano KC. Engineering Design: An Organic Approach to Solving Complex Problems in the Modern World. Morgan & Claypool Publishers; 2020. URL: http://bibvirtual.upch.edu.pe/permalink/f/j23ftu/TN_cdi_askewsholts_vlebooks_9781681739496
 
 ## Profesores del curso e invitados:
-[Profesores encargados] (<FdD/Profesores.png>)
+
 
 ## Jefes de practicas: 
-[Jefes de practica] (<FdD/Jefes_de_practica.png>)
 
-![softt](<Carpetas_del_Proyecto/Imagenes/Carpeta-Presentación 1/Software.png>)
+[Img](<Carpetas_del_Proyecto/Imagenes/Carpeta-Presentación 1/file.png>)
+
