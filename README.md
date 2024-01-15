@@ -24,7 +24,7 @@ print("En debate")
 
 ```
 
-![Imagen del grupo](<Carpetas_del_Proyecto/Imagenes/Participantes_photos/Grupo 2.jpeg>)
+![imagen_del_grupo ](<Carpetas_del_Proyecto/Imagenes/Photos_generales/Foto grupal principal.jpeg>)
 
 # OBJETIVO DE DESARROLLO SOSTENIBLE 
 ![Imagen del grupo](<https://2.bp.blogspot.com/-SsIxQrdrfsQ/XJN_GnOyCnI/AAAAAAAAAOg/0wE0gnCDZI0uqj9FwMlCgBMR1wHry2riQCLcBGAs/s1600/ODS12.JPG>)
