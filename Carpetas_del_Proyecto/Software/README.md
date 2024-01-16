@@ -2,7 +2,9 @@
 
 Dentro de la carpeta "Software" encontraremos el conjunto de instrucciones, reglas o aplicaciones informáticas relacionadas con el ámbito programático que permiten el funcionamiento del sistema y del equipo. 
 
-![Software](<../Imagenes/A-Carpeta-Presentación 1/Software.png>)
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/A-Carpeta-Presentación%201/Software.png" alt="imagen del grupo" width="300px"/>
+</p>
 
 *REFERENCIA BIBLIOGRÁFICA:*
 

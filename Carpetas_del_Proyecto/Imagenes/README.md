@@ -3,7 +3,9 @@
 En el apartado de imágenes encontraremos archivos multimedia, de formato jpeg y/o png, con la finalidad de registrar mediante fotografías el inicio, desarrollo y fin de nuestro proyecto y de esa manera obtener evidencias visuales del desarrollo de las actividades planteadas durante todo el proyecto (Pardellans, et al., 1994).
 
 
-![pictures](<A-Carpeta-Presentación 1/Pictures.png>)
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/A-Carpeta-Presentación%201/Pictures.png" alt="imagen del grupo" width="300px"/>
+</p>
 
 *REFERENCIA BIBLIOGRÁFICA:*
 

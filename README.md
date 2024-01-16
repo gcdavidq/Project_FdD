@@ -9,7 +9,7 @@
 [Sobre Nosotros](https://github.com/gcdavidq/Project_FdD/blob/main/FdD/Entregables/1.-Sobre_Nosotros.md)
 
 # UNIVERSIDAD
-![Imagen del grupo](<https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png>)
+![Logo](<https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png>)
 
 
 fuente: https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png
@@ -24,7 +24,7 @@ print("En debate")
 
 ```
 
-![imagen_del_grupo ](<Carpetas_del_Proyecto/Imagenes/Photos_generales/Foto grupal principal.jpeg>)
+![Imagen del grupo](<Carpetas_del_Proyecto/Imagenes/Z-Photos_generales/Foto grupal principal.jpeg>)
 
 # OBJETIVO DE DESARROLLO SOSTENIBLE 
 ![Imagen del grupo](<https://2.bp.blogspot.com/-SsIxQrdrfsQ/XJN_GnOyCnI/AAAAAAAAAOg/0wE0gnCDZI0uqj9FwMlCgBMR1wHry2riQCLcBGAs/s1600/ODS12.JPG>)
