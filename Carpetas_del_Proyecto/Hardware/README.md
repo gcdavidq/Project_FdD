@@ -4,7 +4,7 @@ En esta carpeta se almacenarán archivos relacionados con el diseño electrónic
 
 
 <p align= "center">
-  <img src="Imagenes/A-Carpeta-Presentación 1/Hardware.png" alt="imagen del grupo" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/A-Carpeta-Presentación%201/Hardware.png" alt="imagen del grupo" width="300px"/>
 </p>
 
 *REFERENCIA BIBLIOGRÁFICA:*
