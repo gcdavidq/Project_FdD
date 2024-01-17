@@ -11,7 +11,7 @@
 ![Logo](<Carpetas_del_Proyecto/Imagenes/A-Carpeta-Presentación 1/z.-Logo Cayetano.png>)
 
 
-fuente: https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png
+
 
 # País
 -Perú, Lima
