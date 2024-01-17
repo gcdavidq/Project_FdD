@@ -1,21 +1,20 @@
 # **PROJECT_FdD** 
 
 
-¡Hola!, somos el grupo N° 02, en esta oportunidad les presentaremos nuestro repositorio, el cual se ha creado con la finalidad de almacenar y publicar el desarrollo de nuestro proyecto que realizaremos durante todas las sesiones en el curso de "Fundamentos de diseños", esto permitirá contribuir desde nuestra posición como estudiantes universitarios en brindar alternativas de solución frente a problemas relacionados con el ambiente y de esa manera aportar a la comunidad y a su cuidado, buscando principalmente una mejor calidad de vida para las especies y un desarrollo sostenible.
- 
+¡Hola a todos! En esta oportunidad nos complace compartir con ustedes el repositorio del grupo Nro. 02, el cual ha sido creado con la finalidad de almacenar y publicar el desarrollo de nuestro proyecto en el curso "Fundamentos de Diseño", esto permitirá contribuir desde nuestra posición como estudiantes universitarios en brindar alternativas de solución frente a problemas relacionados con el medio ambiente contribuyendo así a una comunidad más sostenible y responsable. Este repositorio no es simplemente un depósito de archivos, sino una ventana abierta a la creatividad, la colaboración y la innovación. Estamos emocionados de compartir nuestro progreso con la esperanza de inspirar y colaborar con otros que compartan nuestra pasión por un futuro más sostenible y equitativo.
  
 *¿Quieres saber más sobre los participantes de este proyecto?*
 
 [Sobre Nosotros](https://github.com/gcdavidq/Project_FdD/blob/main/FdD/Entregables/1.-Sobre_Nosotros.md)
 
 # UNIVERSIDAD
-![Logo](<https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png>)
+![Logo](<Carpetas_del_Proyecto/Imagenes/A-Carpeta-Presentación 1/z.-Logo Cayetano.png>)
 
 
 fuente: https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png
 
 # País
--Peru, Lima
+-Perú, Lima
 
 # Proyecto:
 ----------------------------------
@@ -24,36 +23,30 @@ print("En debate")
 
 ```
 
-![Imagen del grupo](<Carpetas_del_Proyecto/Imagenes/Z-Photos_generales/Foto grupal principal.jpeg>)
+![Imagen de Grupo](<Carpetas_del_Proyecto/Imagenes/Z-Photos_generales/Foto grupal principal.png>)
 
 # OBJETIVO DE DESARROLLO SOSTENIBLE 
-![Imagen del grupo](<https://2.bp.blogspot.com/-SsIxQrdrfsQ/XJN_GnOyCnI/AAAAAAAAAOg/0wE0gnCDZI0uqj9FwMlCgBMR1wHry2riQCLcBGAs/s1600/ODS12.JPG>)
-fuente: https://2.bp.blogspot.com/-SsIxQrdrfsQ/XJN_GnOyCnI/AAAAAAAAAOg/0wE0gnCDZI0uqj9FwMlCgBMR1wHry2riQCLcBGAs/s1600/ODS12.JPG
+![ODS](Carpetas_del_Proyecto/Imagenes/Z-Photos_generales/ODS.png)
 
 **ODS 12: PRODUCCIÓN Y CONSUMO RESPONSABLE** 
 
-"Busca cambiar el modelo actual tanto de producción y consumo para lograr una gestión eficiente de nuestros recursos naturales"
+"Busca cambiar el modelo actual tanto de producción y consumo para lograr una gestión eficiente de nuestros recursos naturales".
 
 **¿POR QUÉ LA ELEGIMOS?**
 
-Se sabe que cada año se desperdician alrededor de 1,300 millones de toneladas de alimentos miestras que 2.000 millones de personas padecen de hambre o desnutrición lo que resulta ser algo paradójico debido a que al otro lado del mundo cerca de 2.000 millones de personas sufren de sobrepeso u obesidad. Del mismo modo, el sector de agricultura representa el 22% de las emisiones totales de gases de efecto invernadero (Moran, 2023). 
+Se sabe que cada año se desperdician alrededor de 1.300 millones de toneladas de alimentos, mientras que 2.000 millones de personas padecen de hambre o desnutrición, lo que resulta ser algo paradójico debido a que al otro lado del mundo cerca de 2.000 millones de personas sufren de sobrepeso u obesidad. Del mismo modo, el sector de agricultura representa el 22% de las emisiones totales de gases de efecto invernadero (3).
 
-Es por ello, dicha ODS tiene como objetivo promover el uso responsable y eficiente de los recursos naturales lo que nos permitirá trabajar enfocados en mejorar la calidad de vida generando mejores ganancias  a través de actividades económicas sostenibles reduciendo.
-
-
+Es por ello que dicho ODS tiene como objetivo promover el uso responsable y eficiente de los recursos naturales; esto nos permitirá trabajar enfocados en mejorar la calidad de vida, generando mejores ganancias a través de actividades económicas sostenibles.
 
 
 
+### REFERENCIAS BIBLIOGRÁFICAS:
 
+1.	Guía de Universidades en Perú - 2024 [Internet]. [citado 16 de enero de 2024]. Universidad Peruana Cayetano Heredia (UPCH) - Carreras y costos 2024. Disponible en: https://mentor.pe/universidad-peruana-cayetano-heredia-upch/
 
-**BIBLIOGRAFÍA**
+2. Comunicación ETSII P. Escuela Industriales UPM Madrid. 2023 [citado 16 de enero de 2024]. ODS 12: Producción y consumo responsables. Disponible en: https://www.escuelaindustrialesupm.com/etsii-upm/ods-12-produccion-y-consumo-responsables/
 
--Moran, M. (2023). Consumo y producción sostenibles - desarrollo sostenible. Desarrollo Sostenible.
-
--Pardellans, J. P., Pedemonte, J. C. C., & Layret, J. L. (1994). Sistema de Archivo y Comunicación de Imagen en Radiología. Radiología, 67-76.
-
--Equipo editorial, Etecé. (2023, 19 noviembre).
-
+3. Moran M. Consumo y producción sostenibles [Internet]. Desarrollo Sostenible. [citado 16 de enero de 2024]. Disponible en: https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/
 
 
 
