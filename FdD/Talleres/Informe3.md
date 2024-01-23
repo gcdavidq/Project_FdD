@@ -319,7 +319,7 @@ Para comprobar lo calculado tratamos de formar una resistencia de 35 454.55 Ω a
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/14.-Ejercicio%204_%20Circuito.jpeg" width="300px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/h81.-Botadero%20Frenta%20a%20la%20Upch.jpg" width="400px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/17.-Resultados_ejercicio%204.jpeg" width="400px"/>
 </div>
 
 
