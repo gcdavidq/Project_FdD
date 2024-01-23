@@ -120,7 +120,7 @@ Luego, sumamos de manera paralela $\frac{1}{R_{\text{3}}}$ + el resultado de ($R
 
 ***Figura 9:*** Esquema de circuito de resistencias Parte 3.. Elaboración propia.
 
-$\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{4}}}$ + $\frac{1}{R_{\text{3}}}$ + $\frac{1}{R_{\text{R_{\text{1}}$ +$R_{\text{2}}}}}$
+$\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{4}}}$ + $\frac{1}{R_{\text{3}}}$ + $\frac{1}{R_{\text{3}}}$ + $\frac{1}{R_{1}+R_{2}}$
 
 1RT= 110000 +110000 +120000 
 
