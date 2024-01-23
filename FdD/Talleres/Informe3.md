@@ -223,7 +223,7 @@ $R_{\text{6}}$:10000Ω
 
 La resistencia $R_{\text{5}}$ y $R_{\text{6}}$ están en serie por lo tanto la sumatoria es directas:
 
-$R_{\text{eq}}$=$R_{\text{5}}$+$R_{\text{6}}$= 10000Ω +10000Ω
+$R_{\text{eq}}$= $R_{\text{5}}$ + $R_{\text{6}}$ = 10000Ω + 10000Ω
 
 $R_{\text{eq}}$=20000Ω
 
@@ -251,7 +251,7 @@ $R_{\text{eq}}$ =20000Ω
 
 La resistencia $R_{\text{1}}$ y $R_{\text{3}}$ también están en serie por lo tanto la sumatoria es directas:
 
-$R_{\text{eq}}$=$R_{\text{1}}$+$R_{\text{3}}$=10000Ω +10000Ω
+$R_{\text{eq}}$=$R_{\text{1}}$ + $R_{\text{3}}$=10000Ω +10000Ω
 
 $R_{\text{eq}}$= 20000 Ω
 
@@ -262,11 +262,11 @@ $R_{\text{eq}}$= 20000 Ω
 
 
 
-***Figura 16:***  Esquema de circuito de resistencias Parte 3. Elaboración propia.   
+***Figura 16:***  Esquema de circuito de resistencias Parte 3. Elaboración propia.
 
 Finalmente, nos quedan las tres resistencias en paralelo. Para encontrar la resistencia equivalente total, realizamos la suma inversa de todas ellas.
 
-$R_{\text{T}}$=  $\frac{1}{R_{1}----{3}}$ +$\frac{1}{R_{5}----{6}}$ + $\frac{1}{R_{2}----{4}}$
+$R_{\text{T}}$=  $\frac{1}{R_{1}----{3}}$ + $\frac{1}{R_{5}----{6}}$ + $\frac{1}{R_{2}----{4}}$
 
 $R_{\text{T}}$= 120000 +120000 +120000
 
