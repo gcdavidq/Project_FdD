@@ -316,14 +316,15 @@ $R_{\text{1}}$ = 35 454.5454 Ω
 
 Para comprobar lo calculado tratamos de formar una resistencia de 35 454.55 Ω aproximadamente, es por ello que se usaron 3 resistores en serie  con valores de 20 000, 10 000 y 6 000 Ω, al medir el voltaje de salida de esta nueva conexión se obtuvo como resultado un valor de 1.067 V concluyendo así que este resultado se aproximó al valor propuesto (1.1 V), una de las razones que no permitió llegar al valor propuesto fue por la diferencia de resistencia, ya que de acuerdo a los cálculos debió ser un resistor de 35 454.55 Ω, sin embargo, se utilizó uno de 36 000 Ω. 
 
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/14.-Ejercicio%204_%20Circuito.jpeg" width="300px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/17.-Resultados_ejercicio%204.jpeg" width="400px"/>
-</div>
-
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/14.-Ejercicio%204_%20Circuito.jpeg" alt="imagen del grupo" width="1000px"/>
+</p>
 
 ***Figura 19:*** Conexión en serie de los 3 resistores para formar uno de 36 000 Ω . Elaboración propia.
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/17.-Resultados_ejercicio%204.jpeg" alt="imagen del grupo" width="1000px"/>
+</p>
 
 
 ***Figura 20:*** Voltaje de salida ($V_{\text{Out}}$) de la nueva conexión. Elaboración propia.
