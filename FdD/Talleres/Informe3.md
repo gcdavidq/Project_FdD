@@ -96,7 +96,7 @@ El resultado experimental se correlaciona con el resultado que se muestra en la 
 **Evidencia del trabajo realizado:**
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/18.-Taller_pregunta_2.jpeg" alt="imagen del grupo" width="1000px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/18.-Taller_pregunta_2.jpeg" alt="imagen del grupo" width="600px"/>
 </p>
 
 ***Figura 6:*** Circuito de resistencias en protoboard. Elaboración propia.
