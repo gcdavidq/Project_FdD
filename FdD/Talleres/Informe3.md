@@ -63,7 +63,7 @@ $\frac{1}{R_{\text{T}}}$= $\frac{1}{20000Ω}$ + $\frac{1}{220Ω}$
 
 $\frac{1}{R_{\text{T}}}$ = 0.00459Ω
 
-$\frac{1}{R_{\text{0.00459Ω}}}$= $R_{\text{T}}$
+$\frac{1}{{\text{0.00459Ω}}}$= $R_{\text{T}}$
 
 $R_{\text{T}}$ = 217.9Ω
 
@@ -326,7 +326,7 @@ Para comprobar lo calculado tratamos de formar una resistencia de 35 454.55 Ω a
 ***Figura 19:*** Conexión en serie de los 3 resistores para formar uno de 36 000 Ω . Elaboración propia.
 
 
-***Figura 20:*** Voltaje de salida (Vout) de la nueva conexión. Elaboración propia.
+***Figura 20:*** Voltaje de salida ($V_{\text{Out}}$) de la nueva conexión. Elaboración propia.
 
 
 
