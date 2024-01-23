@@ -116,11 +116,11 @@ $R_{\text{1}}$ + $R_{\text{2}}$ = 10000Ω + 10000Ω
 
 $R_{\text{1}}$+ $R_{\text{2}}$=20000Ω
 
-Luego, sumamos de manera paralela $R_{\text{4}}$ + $R_{\text{3}}$ + el resultado de ($R_{\text{1}}$ +$R_{\text{2}}$). Recordemos que la suma se hace de manera inversa cuando el circuito es paralelo.
+Luego, sumamos de manera paralela $\frac{1}{R_{\text{3}}}$ + el resultado de ($R_{\text{1}}$ +$R_{\text{2}}$). Recordemos que la suma se hace de manera inversa cuando el circuito es paralelo.
 
 ***Figura 9:*** Esquema de circuito de resistencias Parte 3.. Elaboración propia.
 
-$\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{4}}}$ + $\frac{1}{R_{\text{3}}}$ + $\frac{1}{R_{\text{$R_{\text{1}}$ + $R_{\text{2}}$ }}}$ 
+$\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{4}}}$ + $\frac{1}{R_{\text{3}}}$ + $\frac{1}{R_{\text{R_{\text{1}}$ +$R_{\text{2}}}}}$
 
 1RT= 110000 +110000 +120000 
 
