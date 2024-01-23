@@ -337,9 +337,12 @@ Para el presente trabajo se recomendó que el voltaje de entrada y salida sean d
 
 
 $V_{\text{Out}}$= $\frac{R_{\text{2}}}{R_{1}+R_{2}}$  ($V_{\text{int}}$)
-( Vout)/((Vint) )=  R2/(R1+R2)
-1.1/5=  (10 000)/(R1+10 000)
-R1=35 454.5454 Ω
+
+$\frac{V_{\text{Out}}}{V_{\text{int}}}$ = $\frac{R_{\text{2}}}{R_{1}+R_{2}}$
+
+$\frac{1.1}{R_{\text{5}}}$ = $\frac{10 000}{R_{\text{R_{1} + 10 000}}}$ 
+
+$R_{\text{1}}$ = 35 454.5454 Ω
 
 
 
