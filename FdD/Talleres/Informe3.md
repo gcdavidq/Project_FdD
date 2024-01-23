@@ -142,9 +142,9 @@ Luego, sumamos de manera paralela $\frac{1}{R_{\text{3}}}$ + el resultado de ($R
 
 $\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{4}}}$ + $\frac{1}{R_{\text{3}}}$ + $\frac{1}{R_{\text{3}}}$ + $\frac{1}{R_{1}+R_{2}}$
 
-$\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{10000Ω}}}$ + $\frac{1}{R_{\text{10000Ω}}}$ + $\frac{1}{R_{\text{20000Ω }}}$ 
+$\frac{1}{R_{\text{T}}}$= $\frac{1}{{\text{10000Ω}}}$ + $\frac{1}{{\text{10000Ω}}}$ + $\frac{1}{{\text{20000Ω }}}$ 
 
-$\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{4000}}}$ 
+$\frac{1}{R_{\text{T}}}$= $\frac{1}{{\text{4000}}}$ 
 
 $R_{\text{T}}$=4000Ω
 
@@ -259,11 +259,11 @@ Finalmente, nos quedan las tres resistencias en paralelo. Para encontrar la resi
 
 $\frac{1}{R_{\text{T}}}$=  $\frac{1}{R_{1}--{3}}$ + $\frac{1}{R_{5}--{6}}$ + $\frac{1}{R_{2}--{4}}$
 
-$\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{20000Ω}}}$ + $\frac{1}{R_{\text{20000Ω}}}$  + $\frac{1}{R_{\text{20000Ω}}}$ 
+$\frac{1}{R_{\text{T}}}$= $\frac{1}{{\text{20000Ω}}}$ + $\frac{1}{{\text{20000Ω}}}$  + $\frac{1}{{\text{20000Ω}}}$ 
 
 $\frac{1}{R_{\text{T}}}$= 1.5X10-4
 
-$\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{1.5X10-4}}}$ 
+$\frac{1}{R_{\text{T}}}$= $\frac{1}{{\text{1.5X10-4}}}$ 
 
 $R_{\text{T}}$= 6666.666Ω
 
@@ -305,7 +305,7 @@ $V_{\text{Out}}$= $\frac{R_{\text{2}}}{R_{1}+R_{2}}$  ($V_{\text{int}}$)
 
 $\frac{V_{\text{Out}}}{V_{\text{int}}}$ = $\frac{R_{\text{2}}}{R_{1}+R_{2}}$
 
-$\frac{1.1}{R_{\text{5}}}$ = $\frac{10 000}{R_{1} + 10 000}$
+$\frac{1.1}{{\text{5}}}$ = $\frac{10 000}{R_{1} + 10 000}$
 
 $R_{\text{1}}$ = 35 454.5454 Ω
 
