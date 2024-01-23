@@ -59,9 +59,8 @@ $R_{\text{eq}}$ = 20000Ω
 
 Para la segunda parte, tenemos una suma inversa dado que el circuito es paralelo, a ello se adiciona el resultado de la $R_{\text{eq}}$  para calcular la $R_{\text{T}}$ de la siguiente manera:
 
-$\frac{1}{5}$
+$\frac{1}{R_{\text{T}}}$= 1Req+1R3
 
-1/$R_{\text{T}}$= 1Req+1R3
 
 1RT= 120000+1220
 
