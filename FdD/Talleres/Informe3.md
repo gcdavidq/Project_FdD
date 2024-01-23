@@ -12,12 +12,15 @@ En el presente informe, se dará a conocer acerca de lo que se desarrolló en la
 
 Representación gráfica del circuito real y el circuito reescrito
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/1.-Circuito%201.jpeg" width="300px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/2.-Circuito%201_2.jpeg" width="400px"/>
-</div>
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/1.-Circuito%201.jpeg" alt="imagen del grupo" width="600px"/>
+</p>
 
 ***Figura 1:*** Ejercicio de Circuito N°1.  Fue extraído de la Guia 3 del laboratorio (Ejercicios_Fund_Electronica_1)
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/2.-Circuito%201_2.jpeg" alt="imagen del grupo" width="600px"/>
+</p>
 
 ***Figura 2:*** Esquema del circuito de resistencia. Elaboración propia.
 
@@ -202,15 +205,15 @@ $R_{\text{6}}$:10000Ω
 
 
 
-
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/91.-Circuito.jpeg" width="300px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/10.-Circuito%203_3.jpeg" width="400px"/>
-</div>
-
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/91.-Circuito.jpeg" alt="imagen del grupo" width="1000px"/>
+</p>
 
 ***Figura 13:*** Circuito de resistencias. Elaboración propia.
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/10.-Circuito%203_3.jpeg" width="1000px"/>
+</p>
 
 
 ***Figura 14:*** Esquema de circuito de resistencias Parte 1. Elaboración propia.
