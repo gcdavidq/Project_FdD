@@ -340,7 +340,7 @@ $V_{\text{Out}}$= $\frac{R_{\text{2}}}{R_{1}+R_{2}}$  ($V_{\text{int}}$)
 
 $\frac{V_{\text{Out}}}{V_{\text{int}}}$ = $\frac{R_{\text{2}}}{R_{1}+R_{2}}$
 
-$\frac{1.1}{R_{\text{5}}}$ = $\frac{10 000}{R_{\text{R_{1} + 10 000}}}$ 
+$\frac{1.1}{R_{\text{5}}}$ = $\frac{10 000}{R_{1} + 10 000}$
 
 $R_{\text{1}}$ = 35 454.5454 Ω
 
