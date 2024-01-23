@@ -2,11 +2,11 @@
 
 ## Fundamentos de Electrónica I
 
-En el presente informe, se dará a conocer acerca de lo que se desarrolló en la sesión N° 3 del día 22/01/2024, en donde nos introducimos al conocimiento del manejo de protoboar y el circuito divisor de tensión con los cuales se realizaron ciertas actividades que nos permitieron completar los objetivos propuestos para la presente sección que a continuación pasan a ser más detallados.
+En el presente informe, se dará a conocer acerca de lo que se desarrolló en la sesión N° 3 del día 22/01/2024, en donde nos introducimos al conocimiento del manejo de protoboard y el circuito divisor de tensión con los cuales se realizaron ciertas actividades que nos permitieron completar los objetivos propuestos para la presente sección que a continuación pasan a ser más detallados.
 
 
 
-### 1. Manejo de protoboar 
+### 1. Manejo de protoboard 
 
 **1.1 Ejercicio nivel pollito:**
 
@@ -28,7 +28,7 @@ $R_{\text{2}}$: 10 000 Ω
 
 $R_{\text{3}}$: 220 Ω
 
-***Evidencia del trabajo realizado:***
+**Evidencia del trabajo realizado:**
 
 
 
@@ -72,10 +72,14 @@ $\frac{1}{R_{\text{0.00459Ω}}}$= $R_{\text{T}}$
 
 $R_{\text{T}}$ = 217.9Ω
 
-***Evidencias del resultado obtenido:***
+**Evidencias del resultado obtenido:**
 
 
 ***Figura 4:*** Medición de resistencias con multimetro. Elaboración propia.
+
+Después de realizar los cálculos, continuamos realizando mediciones con un multímetro para ver si el procedimiento realizado es correcto.
+
+El resultado experimental se correlaciona con el resultado que se muestra en la figura.
 
 
 **1.2 Ejercicio nivel gato:**
@@ -86,7 +90,7 @@ $R_{\text{T}}$ = 217.9Ω
 
 
 
-***Evidencia del trabajo realizado:***
+**Evidencia del trabajo realizado:**
 
 
 ***Figura 6:*** Circuito de resistencias en protoboard. Elaboración propia.
@@ -103,30 +107,31 @@ $R_{\text{4}}$:10 000Ω
 
 $R_{\text{5}}$:10 000Ω 
 
-Representación gráfica del circuito:
+**Representación gráfica del circuito:**
 
 ***Figura 7:*** Esquema de circuito de resistencias Parte 1. Elaboración propia.
 
 Primero, sumamos $R_{\text{1}}$ y $R_{\text{2}}$, ambos están en serie.
 
-
-***Figura 8:*** Esquema de circuito de resistencias Parte 2. Elaboración propia.
-
 $R_{\text{1}}$ + $R_{\text{2}}$ = 10000Ω + 10000Ω
 
 $R_{\text{1}}$+ $R_{\text{2}}$=20000Ω
 
-Luego, sumamos de manera paralela $\frac{1}{R_{\text{3}}}$ + el resultado de ($R_{\text{1}}$ +$R_{\text{2}}$). Recordemos que la suma se hace de manera inversa cuando el circuito es paralelo.
+
+***Figura 8:*** Esquema de circuito de resistencias Parte 2. Elaboración propia.
+
+
+Luego, sumamos de manera paralela $\frac{1}{R_{\text{3}}}$ + el resultado de ($R_{\text{1}}$ + $R_{\text{2}}$). Recordemos que la suma se hace de manera inversa cuando el circuito es paralelo.
 
 ***Figura 9:*** Esquema de circuito de resistencias Parte 3.. Elaboración propia.
 
 $\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{4}}}$ + $\frac{1}{R_{\text{3}}}$ + $\frac{1}{R_{\text{3}}}$ + $\frac{1}{R_{1}+R_{2}}$
 
-1RT= 110000 +110000 +120000 
+$\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{10000Ω}}}$ + $\frac{1}{R_{\text{10000Ω}}}$ + $\frac{1}{R_{\text{20000Ω }}}$ 
 
-1RT= 14000  
+$\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{4000}}}$ 
 
-RT=4000 
+$R_{\text{T}}$=4000Ω
 
 Como se podrá apreciar en el circuito resumido de la imagen, por la forma en como la resistencia 5 (R5) está conectada se producirá un cortocircuito, generando así que su valor sea lo suficientemente bajo (casi nulo) para no ser considerado en el circuito.
 Evidencias del resultado obtenido: 
@@ -164,7 +169,7 @@ Evidencias del resultado obtenido:
 
 
 
-Evidencia del trabajo realizado:
+**Evidencia del trabajo realizado:**
 
 
 
@@ -184,13 +189,20 @@ Evidencia del trabajo realizado:
 ***Figura 12:*** Circuito de resistencias en protoboard. Elaboración propia.
 
 Valor de cada resistencia:
-R1:10000 
-R2:10000 
-R3:10000 
-R4:10000 
-R5:10000 
-R6:10000 
-Representación gráfica del circuito real y el circuito reescrito:
+
+$R_{\text{1}}$:10000Ω
+
+$R_{\text{2}}$:10000Ω
+
+$R_{\text{3}}$:10000Ω
+
+$R_{\text{4}}$:10000Ω
+
+$R_{\text{5}}$:10000Ω
+
+$R_{\text{6}}$:10000Ω
+
+**Representación gráfica del circuito real y el circuito reescrito:**
 
 
 
@@ -209,10 +221,11 @@ Representación gráfica del circuito real y el circuito reescrito:
 
 ***Figura 14:*** Esquema de circuito de resistencias Parte 1. Elaboración propia.
 
-La resistencia R5 y R6 están en serie por lo tanto la sumatoria es directas:
+La resistencia $R_{\text{5}}$ y $R_{\text{6}}$ están en serie por lo tanto la sumatoria es directas:
 
- Req=R5+R6=10000 +10000
-Req=20000 
+$R_{\text{eq}}$=$R_{\text{5}}$+$R_{\text{6}}$= 10000Ω +10000Ω
+
+$R_{\text{eq}}$=20000Ω
 
 
 
@@ -228,17 +241,19 @@ Req=20000
 
 
 
-***Figura 15:***  Esquema de circuito de resistencias Parte 2. Elaboración propia.    
+***Figura 15:***  Esquema de circuito de resistencias Parte 2. Elaboración propia.
 
-La resistencia R2 y R4 están en serie por lo tanto la sumatoria es directas:
+La resistencia $R_{\text{2}}$ y $R_{\text{4}}$ están en serie por lo tanto la sumatoria es directas:
 
- Req=R2+R4=10000 +10000
-Req=20000 
+$R_{\text{eq}}$ = $R_{\text{2}}$ + $R_{\text{4}}$ = 10000Ω +10000Ω
 
-La resistencia R1 y R3 también están en serie por lo tanto la sumatoria es directas:
+$R_{\text{eq}}$ =20000Ω 
 
- Req=R1+R3=10000 +10000
-Req=20000 
+La resistencia $R_{\text{1}}$ y $R_{\text{3}}$ también están en serie por lo tanto la sumatoria es directas:
+
+$R_{\text{eq}}$=$R_{\text{1}}$+$R_{\text{3}}$=10000Ω +10000Ω
+
+$R_{\text{eq}}$= 20000 Ω
 
 
 
@@ -251,15 +266,15 @@ Req=20000
 
 Finalmente, nos quedan las tres resistencias en paralelo. Para encontrar la resistencia equivalente total, realizamos la suma inversa de todas ellas.
 
-1RT= 1R1-3+1R5-6+1R2-4
+$R_{\text{T}}$=  $\frac{1}{R_{1}----{3}}$ +$\frac{1}{R_{5}----{6}}$ + $\frac{1}{R_{2}----{4}}$
 
-1RT= 120000 +120000 +120000 
+$R_{\text{T}}$= 120000 +120000 +120000
 
-1RT= 1.5X10-4    
+$R_{\text{T}}$= 1.5X10-4
 
-1RT=11.5X10-4   
+$R_{\text{T}}$= 11.5X10-4
 
-RT=6666.666     
+$R_{\text{T}}$= 6666.666
 
 
 
