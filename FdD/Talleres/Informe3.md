@@ -9,6 +9,7 @@ En el presente informe, se dará a conocer acerca de lo que se desarrolló en la
 ### 1. Manejo de protoboar 
 
 **1.1 Ejercicio nivel pollito:**
+
 Representación gráfica del circuito real y el circuito reescrito
 
 
@@ -27,7 +28,7 @@ R2: 10 000 Ω
 
 R3: 220 Ω
 
-**Evidencia del trabajo realizado:**
+***Evidencia del trabajo realizado:***
 
 
 
@@ -71,39 +72,52 @@ $\frac{1}{R_{\text{T}}}$ = 0.00459Ω
 
 $R_{\text{T}}$ = 217.9Ω
 
-Evidencias del resultado obtenido: 
-Figura: Medición de resistencias con multimetro. Elaboración propia.
-
-1.2 Ejercicio nivel gato:
+***Evidencias del resultado obtenido:***
 
 
-
-Figura: Ejercicio de Circuito N°2. Fue extraído de la Guia 3 del laboratorio (Ejercicios_Fund_Electronica_1)
-
-
-Evidencia del trabajo realizado:
+***Figura 4:*** Medición de resistencias con multimetro. Elaboración propia.
 
 
-Figura: Circuito de resistencias en protoboard. Elaboración propia.
+**1.2 Ejercicio nivel gato:**
 
-Valores de cada resistencia:
-R1:10 000 
-R2:10 000 
-R3:10 000 
-R4:10 000 
-R5:10 000 
+
+
+***Figura 5:*** Ejercicio de Circuito N°2. Fue extraído de la Guia 3 del laboratorio (Ejercicios_Fund_Electronica_1)
+
+
+
+***Evidencia del trabajo realizado:***
+
+
+***Figura 6:*** Circuito de resistencias en protoboard. Elaboración propia.
+
+**Valores de cada resistencia:**
+
+$R_{\text{1}}$:10 000Ω
+
+$R_{\text{2}}$:10 000Ω 
+
+$R_{\text{3}}$:10 000Ω 
+
+$R_{\text{4}}$:10 000Ω 
+
+$R_{\text{5}}$:10 000Ω 
+
 Representación gráfica del circuito:
 
-Figura: Esquema de circuito de resistencias Parte 1. Elaboración propia.
+***Figura 7:*** Esquema de circuito de resistencias Parte 1. Elaboración propia.
 
-Primero, sumamos R1 y R2, ambos están en serie.
+Primero, sumamos $R_{\text{1}}$ y $R_{\text{2}}$, ambos están en serie.
 
-Figura: Esquema de circuito de resistencias Parte 2. Elaboración propia.
-R1+R2=10000 +10000
+
+***Figura 8:*** Esquema de circuito de resistencias Parte 2. Elaboración propia.
+
+$R_{\text{1}}$ + $R_{\text{2}}$ = 10000Ω + 10000Ω
+
 R1+R2=20000 
 Luego, sumamos de manera paralela R4 + R3 + el resultado de (R1 +R2). Recordemos que la suma se hace de manera inversa cuando el circuito es paralelo.
 
-Figura: Esquema de circuito de resistencias Parte 3.. Elaboración propia.
+***Figura 9:*** Esquema de circuito de resistencias Parte 3.. Elaboración propia.
 1RT= 1R4+1R3+1R1+R2
 1RT= 110000 +110000 +120000 
 1RT= 14000  
@@ -112,7 +126,7 @@ RT=4000
 Como se podrá apreciar en el circuito resumido de la imagen, por la forma en como la resistencia 5 (R5) está conectada se producirá un cortocircuito, generando así que su valor sea lo suficientemente bajo (casi nulo) para no ser considerado en el circuito.
 Evidencias del resultado obtenido: 
 
-Figura: Medición de resistencias con multimetro. Elaboración propia.
+***Figura 10:*** Medición de resistencias con multimetro. Elaboración propia.
 
 
 
@@ -141,7 +155,7 @@ Figura: Medición de resistencias con multimetro. Elaboración propia.
 
 
 
-Figura: Ejercicio de Circuito N°3. Fue extraído de la Guia 3 del laboratorio (Ejercicios_Fund_Electronica_1)
+***Figura 11:*** Ejercicio de Circuito N°3. Fue extraído de la Guia 3 del laboratorio (Ejercicios_Fund_Electronica_1)
 
 
 
@@ -162,7 +176,7 @@ Evidencia del trabajo realizado:
 
 
 
-Figura: Circuito de resistencias en protoboard. Elaboración propia.
+***Figura 12:*** Circuito de resistencias en protoboard. Elaboración propia.
 
 Valor de cada resistencia:
 R1:10000 
@@ -185,7 +199,10 @@ Representación gráfica del circuito real y el circuito reescrito:
 
 
 
-Figura: Circuito de resistencias. Elaboración propia.           Figura:  Esquema de circuito de resistencias Parte                1. Elaboración propia.
+***Figura 13:*** Circuito de resistencias. Elaboración propia.
+
+
+***Figura 14:*** Esquema de circuito de resistencias Parte 1. Elaboración propia.
 
 La resistencia R5 y R6 están en serie por lo tanto la sumatoria es directas:
 
@@ -206,7 +223,7 @@ Req=20000
 
 
 
-Figura:  Esquema de circuito de resistencias Parte 2. Elaboración propia.    
+***Figura 15:***  Esquema de circuito de resistencias Parte 2. Elaboración propia.    
 
 La resistencia R2 y R4 están en serie por lo tanto la sumatoria es directas:
 
@@ -225,7 +242,7 @@ Req=20000
 
 
 
-Figura:  Esquema de circuito de resistencias Parte 3. Elaboración propia.   
+***Figura 16:***  Esquema de circuito de resistencias Parte 3. Elaboración propia.   
 
 Finalmente, nos quedan las tres resistencias en paralelo. Para encontrar la resistencia equivalente total, realizamos la suma inversa de todas ellas.
 1RT= 1R1-3+1R5-6+1R2-4
@@ -256,7 +273,7 @@ Como podemos observar en la imagen el resultado tiene relación con lo obtenido 
 
 
 
-Figura: Medición de resistencias con multimetro. Elaboración propia.   
+***Figura 17:*** Medición de resistencias con multimetro. Elaboración propia.   
 
 
 
@@ -289,7 +306,7 @@ Figura: Medición de resistencias con multimetro. Elaboración propia.
 
 
 
-Figura: Fórmula general a utilizar en un circuito divisor de tensión. Fue extraído de “Divisor de tensión”(1). 
+***Figura 18:*** Fórmula general a utilizar en un circuito divisor de tensión. Fue extraído de “Divisor de tensión”(1). 
 
 Para el presente trabajo se recomendó que el voltaje de entrada y salida sean de 5 voltios y 1.1 voltios respectivamente. Como equipo decidimos que el valor de la resistencia 2 (R2)  sea de 10 000 ohmios (Ω) al realizar las operaciones correspondientes se obtuvo que la resistencia 1 (R1) debería tener un valor de 35 454.54 ohmios (Ω) .
 
@@ -307,11 +324,15 @@ Para comprobar lo calculado tratamos de formar una resistencia de 35 454.55 Ω a
 
 
 
-Figura: Conexión en serie de los 3 resistores para formar uno de 36 000 Ω . Elaboración propia.
-Figura: Voltaje de salida (Vout) de la nueva conexión. Elaboración propia.
+***Figura 19:*** Conexión en serie de los 3 resistores para formar uno de 36 000 Ω . Elaboración propia.
 
 
-REFERENCIA BIBLIOGRÁFICA:
+***Figura 20:*** Voltaje de salida (Vout) de la nueva conexión. Elaboración propia.
 
-AREATECNOLOGIA. Divisor de tensión. Disponible en: https://www.areatecnologia.com/electronica/divisor-de-tension.html
+
+
+
+### **REFERENCIA BIBLIOGRÁFICA:**
+
+1. AREATECNOLOGIA. Divisor de tensión. Disponible en: https://www.areatecnologia.com/electronica/divisor-de-tension.html
 
