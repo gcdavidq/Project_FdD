@@ -63,7 +63,7 @@ Para la segunda parte, tenemos una suma inversa dado que el circuito es paralelo
 $\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{eq}}}$ + $\frac{1}{R_{\text{3}}}$
 
 
-1RT= 120000+1220
+$\frac{1}{R_{\text{T}}}$= $\frac{1}{20000Ω}$ + $\frac{1}{220Ω}$
 
 1RT= 0.00459
 
