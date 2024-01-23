@@ -20,13 +20,13 @@ Representación gráfica del circuito real y el circuito reescrito
 
 **Valores de cada resistencia:**
 
-R1: 10 000 Ω
+$R_{\text{1}}$: 10 000 Ω
 
 
-R2: 10 000 Ω
+$R_{\text{2}}$: 10 000 Ω
 
 
-R3: 220 Ω
+$R_{\text{3}}$: 220 Ω
 
 ***Evidencia del trabajo realizado:***
 
@@ -68,7 +68,7 @@ $\frac{1}{R_{\text{T}}}$= $\frac{1}{20000Ω}$ + $\frac{1}{220Ω}$
 
 $\frac{1}{R_{\text{T}}}$ = 0.00459Ω
 
-10.00459Ω= $R_{\text{T}}$
+$\frac{1}{R_{\text{0.00459Ω}}}$= $R_{\text{T}}$
 
 $R_{\text{T}}$ = 217.9Ω
 
@@ -114,13 +114,18 @@ Primero, sumamos $R_{\text{1}}$ y $R_{\text{2}}$, ambos están en serie.
 
 $R_{\text{1}}$ + $R_{\text{2}}$ = 10000Ω + 10000Ω
 
-R1+R2=20000 
-Luego, sumamos de manera paralela R4 + R3 + el resultado de (R1 +R2). Recordemos que la suma se hace de manera inversa cuando el circuito es paralelo.
+$R_{\text{1}}$+ $R_{\text{2}}$=20000Ω
+
+Luego, sumamos de manera paralela $R_{\text{4}}$ + $R_{\text{3}}$ + el resultado de ($R_{\text{1}}$ +$R_{\text{2}}$). Recordemos que la suma se hace de manera inversa cuando el circuito es paralelo.
 
 ***Figura 9:*** Esquema de circuito de resistencias Parte 3.. Elaboración propia.
+
 1RT= 1R4+1R3+1R1+R2
+
 1RT= 110000 +110000 +120000 
+
 1RT= 14000  
+
 RT=4000 
 
 Como se podrá apreciar en el circuito resumido de la imagen, por la forma en como la resistencia 5 (R5) está conectada se producirá un cortocircuito, generando así que su valor sea lo suficientemente bajo (casi nulo) para no ser considerado en el circuito.
@@ -245,10 +250,15 @@ Req=20000
 ***Figura 16:***  Esquema de circuito de resistencias Parte 3. Elaboración propia.   
 
 Finalmente, nos quedan las tres resistencias en paralelo. Para encontrar la resistencia equivalente total, realizamos la suma inversa de todas ellas.
+
 1RT= 1R1-3+1R5-6+1R2-4
+
 1RT= 120000 +120000 +120000 
+
 1RT= 1.5X10-4    
+
 1RT=11.5X10-4   
+
 RT=6666.666     
 
 
@@ -311,8 +321,8 @@ Como podemos observar en la imagen el resultado tiene relación con lo obtenido 
 Para el presente trabajo se recomendó que el voltaje de entrada y salida sean de 5 voltios y 1.1 voltios respectivamente. Como equipo decidimos que el valor de la resistencia 2 (R2)  sea de 10 000 ohmios (Ω) al realizar las operaciones correspondientes se obtuvo que la resistencia 1 (R1) debería tener un valor de 35 454.54 ohmios (Ω) .
 
 
-
-YA TE PASE JHUNIOR 
+Vout=  R2/(R1+R2)(Vint)=  ( Vout)/((Vint) )=  R2/(R1+R2)  =  1.1/5=  (10 000)/(R1+10 000)
+= R1=35 454.5454 Ω
 
 
 
