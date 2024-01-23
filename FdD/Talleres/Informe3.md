@@ -266,15 +266,15 @@ $R_{\text{eq}}$= 20000 Ω
 
 Finalmente, nos quedan las tres resistencias en paralelo. Para encontrar la resistencia equivalente total, realizamos la suma inversa de todas ellas.
 
-$R_{\text{T}}$=  $\frac{1}{R_{1}--{3}}$ + $\frac{1}{R_{5}--{6}}$ + $\frac{1}{R_{2}--{4}}$
+$\frac{1}{R_{\text{T}}}$=  $\frac{1}{R_{1}--{3}}$ + $\frac{1}{R_{5}--{6}}$ + $\frac{1}{R_{2}--{4}}$
 
-$R_{\text{T}}$= $\frac{1}{R_{\text{20000Ω}}}$ + $\frac{1}{R_{\text{20000Ω}}}$  + $\frac{1}{R_{\text{20000Ω}}}$ 
+$\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{20000Ω}}}$ + $\frac{1}{R_{\text{20000Ω}}}$  + $\frac{1}{R_{\text{20000Ω}}}$ 
 
-$R_{\text{T}}$= 1.5X10-4
+$\frac{1}{R_{\text{T}}}$= 1.5X10-4
 
-$R_{\text{T}}$= 11.5X10-4
+$\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{1.5X10-4}}}$ 
 
-$R_{\text{T}}$= 6666.666
+$R_{\text{T}}$= 6666.666Ω
 
 
 
@@ -323,9 +323,9 @@ Como podemos observar en la imagen el resultado tiene relación con lo obtenido 
 
 
 
- Circuitos útiles
+Circuitos útiles
 
-2.1 Circuito Divisor de Tensión: Este circuito nos sirve para obtener un voltaje de salida (Vout) en menor cantidad que el voltaje de entrada (Vint) utilizando la ley de Ohm. Por ejemplo, si queremos alimentar una bombilla a 6 voltios y solo disponemos de una pila de 10 voltios, podemos utilizar un circuito divisor de tensión en donde divida los 10 voltios de la pila en 2, una de 6 voltios (Vout) y otra de 4 voltios (1). 
+2.1 Circuito Divisor de Tensión: Este circuito nos sirve para obtener un voltaje de salida ($V_{\text{Out}}$) en menor cantidad que el voltaje de entrada ($V_{\text{int}}$) utilizando la ley de Ohm. Por ejemplo, si queremos alimentar una bombilla a 6 voltios y solo disponemos de una pila de 10 voltios, podemos utilizar un circuito divisor de tensión en donde divida los 10 voltios de la pila en 2, una de 6 voltios ($V_{\text{Out}}$) y otra de 4 voltios (1). 
 
 
 
@@ -333,11 +333,13 @@ Como podemos observar en la imagen el resultado tiene relación con lo obtenido 
 
 ***Figura 18:*** Fórmula general a utilizar en un circuito divisor de tensión. Fue extraído de “Divisor de tensión”(1). 
 
-Para el presente trabajo se recomendó que el voltaje de entrada y salida sean de 5 voltios y 1.1 voltios respectivamente. Como equipo decidimos que el valor de la resistencia 2 (R2)  sea de 10 000 ohmios (Ω) al realizar las operaciones correspondientes se obtuvo que la resistencia 1 (R1) debería tener un valor de 35 454.54 ohmios (Ω) .
+Para el presente trabajo se recomendó que el voltaje de entrada y salida sean de 5 voltios y 1.1 voltios respectivamente. Como equipo decidimos que el valor de la resistencia 2 ($R_{\text{2}}$)  sea de 10 000 ohmios (Ω) al realizar las operaciones correspondientes se obtuvo que la resistencia 1 ($R_{\text{1}}$) debería tener un valor de 35 454.54 ohmios (Ω) .
 
 
-Vout=  R2/(R1+R2)(Vint)=  ( Vout)/((Vint) )=  R2/(R1+R2)  =  1.1/5=  (10 000)/(R1+10 000)
-= R1=35 454.5454 Ω
+$V_{\text{Out}}$= $\frac{R_{\text{2}}}{R_{1}+R_{2}}$  ($V_{\text{int}}$)
+( Vout)/((Vint) )=  R2/(R1+R2)
+1.1/5=  (10 000)/(R1+10 000)
+R1=35 454.5454 Ω
 
 
 
