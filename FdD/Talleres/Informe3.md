@@ -20,7 +20,9 @@ Representación gráfica del circuito real y el circuito reescrito
 **Valores de cada resistencia:**
 
 R1: 10 000 Ω
+
 R2: 10 000 Ω
+
 R3: 220 Ω
 
 **Evidencia del trabajo realizado:**
@@ -45,14 +47,19 @@ R3: 220 Ω
 En primer lugar, se identificó que las resistencias R1 y R2 están en serie por lo tanto la sumatoria es directa.
 
 $R_{\text{eq}}$ = $R_{\text{1}}$ + $R_{\text{2}}$
+
 $R_{\text{eq}}$ = 10000Ω + 10000Ω
+
 $R_{\text{eq}}$ = 20000Ω
 
 Para la segunda parte, tenemos una suma inversa dado que el circuito es paralelo, a ello se adiciona el resultado de la $R_{\text{eq}}$  para calcular la $R_{\text{T}}$ de la siguiente manera:
 
-\( \frac{1}{$R_{\text{T}}$} \)= 1Req+1R3
+\[ \frac{1}{R_{\text{T}}} = \frac{1}{R_{\text{eq}}} + \frac{1}{R_3} \]
+
 1RT= 120000+1220
+
 1RT= 0.00459
+
 10.00459= RT
 RT = 217.9 
 Evidencias del resultado obtenido: 
