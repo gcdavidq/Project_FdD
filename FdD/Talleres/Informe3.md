@@ -65,10 +65,12 @@ $\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{eq}}}$ + $\frac{1}{R_{\text{3}}}$
 
 $\frac{1}{R_{\text{T}}}$= $\frac{1}{20000Ω}$ + $\frac{1}{220Ω}$
 
-1RT= 0.00459
+$\frac{1}{R_{\text{T}}}$ = 0.00459Ω
 
-10.00459= RT
-RT = 217.9 
+10.00459Ω= $R_{\text{T}}$
+
+$R_{\text{T}}$ = 217.9Ω
+
 Evidencias del resultado obtenido: 
 Figura: Medición de resistencias con multimetro. Elaboración propia.
 
