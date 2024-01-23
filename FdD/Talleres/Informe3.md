@@ -13,8 +13,8 @@ En el presente informe, se dará a conocer acerca de lo que se desarrolló en la
 Representación gráfica del circuito real y el circuito reescrito
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/h8.-Botadero%20Frenta%20a%20la%20Upch.jpg" width="300px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/h81.-Botadero%20Frenta%20a%20la%20Upch.jpg" width="400px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/1.-Circuito%201.jpeg" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/2.-Circuito%201_2.jpeg" width="400px"/>
 </div>
 
 ***Figura 1:*** Ejercicio de Circuito N°1.  Fue extraído de la Guia 3 del laboratorio (Ejercicios_Fund_Electronica_1)
@@ -36,7 +36,7 @@ $R_{\text{3}}$: 220 Ω
 
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/i9.-Contexto%20Upch.jpg" alt="imagen del grupo" width="1000px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/3.-Circuito%201_3.jpeg" alt="imagen del grupo" width="600px"/>
 </p>
 
 
@@ -70,7 +70,7 @@ $R_{\text{T}}$ = 217.9Ω
 **Evidencias del resultado obtenido:**
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/i9.-Contexto%20Upch.jpg" alt="imagen del grupo" width="1000px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/4.-Circuito%201_4.jpeg" alt="imagen del grupo" width="600px"/>
 </p>
 
 ***Figura 4:*** Medición de resistencias con multimetro. Elaboración propia.
@@ -83,7 +83,7 @@ El resultado experimental se correlaciona con el resultado que se muestra en la 
 **1.2 Ejercicio nivel gato:**
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/i9.-Contexto%20Upch.jpg" alt="imagen del grupo" width="1000px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/5.-Circuito.jpeg" alt="imagen del grupo" width="1000px"/>
 </p>
 
 ***Figura 5:*** Ejercicio de Circuito N°2. Fue extraído de la Guia 3 del laboratorio (Ejercicios_Fund_Electronica_1)
@@ -93,7 +93,7 @@ El resultado experimental se correlaciona con el resultado que se muestra en la 
 **Evidencia del trabajo realizado:**
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/i9.-Contexto%20Upch.jpg" alt="imagen del grupo" width="1000px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/18.-Taller_pregunta_2.jpeg" alt="imagen del grupo" width="1000px"/>
 </p>
 
 ***Figura 6:*** Circuito de resistencias en protoboard. Elaboración propia.
@@ -113,7 +113,7 @@ $R_{\text{5}}$:10 000Ω
 **Representación gráfica del circuito:**
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/i9.-Contexto%20Upch.jpg" alt="imagen del grupo" width="1000px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/51.-Circuito.jpeg" alt="imagen del grupo" width="1000px"/>
 </p>
 
 ***Figura 7:*** Esquema de circuito de resistencias Parte 1. Elaboración propia.
@@ -126,7 +126,7 @@ $R_{\text{1}}$+ $R_{\text{2}}$=20000Ω
 
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/i9.-Contexto%20Upch.jpg" alt="imagen del grupo" width="1000px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/6.-Circuito%202_2.jpeg" alt="imagen del grupo" width="1000px"/>
 </p>
 
 ***Figura 8:*** Esquema de circuito de resistencias Parte 2. Elaboración propia.
@@ -135,7 +135,7 @@ $R_{\text{1}}$+ $R_{\text{2}}$=20000Ω
 Luego, sumamos de manera paralela $\frac{1}{R_{\text{3}}}$ + el resultado de ($R_{\text{1}}$ + $R_{\text{2}}$). Recordemos que la suma se hace de manera inversa cuando el circuito es paralelo.
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/i9.-Contexto%20Upch.jpg" alt="imagen del grupo" width="1000px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/7.-Circuito%202_3.jpeg" alt="imagen del grupo" width="1000px"/>
 </p>
 
 ***Figura 9:*** Esquema de circuito de resistencias Parte 3.. Elaboración propia.
@@ -153,37 +153,17 @@ Evidencias del resultado obtenido:
 
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/i9.-Contexto%20Upch.jpg" alt="imagen del grupo" width="1000px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/19.-Taller_pregunta_2_voltimetro.jpeg" alt="imagen del grupo" width="600px"/>
 </p>
 
 ***Figura 10:*** Medición de resistencias con multimetro. Elaboración propia.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ***1.3 Ejercicio nivel dragón:***
 
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/i9.-Contexto%20Upch.jpg" alt="imagen del grupo" width="1000px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/9.-Circuito%203_2.jpeg" alt="imagen del grupo" width="600px"/>
 </p>
-
-
-
-
-
 
 
 
@@ -196,7 +176,7 @@ Evidencias del resultado obtenido:
 
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/i9.-Contexto%20Upch.jpg" alt="imagen del grupo" width="1000px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/8.-Circuito%203.jpeg" width="600px"/>
 </p>
 
 
@@ -225,8 +205,8 @@ $R_{\text{6}}$:10000Ω
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/h8.-Botadero%20Frenta%20a%20la%20Upch.jpg" width="300px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/h81.-Botadero%20Frenta%20a%20la%20Upch.jpg" width="400px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/91.-Circuito.jpeg" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/10.-Circuito%203_3.jpeg" width="400px"/>
 </div>
 
 
@@ -243,15 +223,9 @@ $R_{\text{eq}}$=20000Ω
 
 
 
- 
-
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/i9.-Contexto%20Upch.jpg" alt="imagen del grupo" width="1000px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/12.-Circuito%203_5.jpeg" alt="imagen del grupo" width="1000px"/>
 </p>
-
-
-
-
 
 
 
@@ -273,7 +247,7 @@ $R_{\text{eq}}$= 20000 Ω
 
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/i9.-Contexto%20Upch.jpg" alt="imagen del grupo" width="1000px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/11.-Circuito%203_4.jpeg" alt="imagen del grupo" width="1000px"/>
 </p>
 
 
@@ -294,49 +268,17 @@ $\frac{1}{R_{\text{T}}}$= $\frac{1}{R_{\text{1.5X10-4}}}$
 $R_{\text{T}}$= 6666.666Ω
 
 
-
-
-
-
-
-
 Una vez realizados los cálculos, pasamos a tomar las medidas con el multímetro para ver si el procedimiento realizado es correcto. 
 Como podemos observar en la imagen el resultado tiene relación con lo obtenido experimentalmente.
 
 
-
-
-
-
-
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/i9.-Contexto%20Upch.jpg" alt="imagen del grupo" width="1000px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/13.-Circuito%203_6.jpeg" alt="imagen del grupo" width="1000px"/>
 </p>
 
 
 
-
-
-
 ***Figura 17:*** Medición de resistencias con multimetro. Elaboración propia.   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -349,8 +291,8 @@ Circuitos útiles
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/h8.-Botadero%20Frenta%20a%20la%20Upch.jpg" width="300px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/h81.-Botadero%20Frenta%20a%20la%20Upch.jpg" width="400px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/16.-Formula.jpeg" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/15.-Ejercicio_4_Significado.jpeg" width="400px"/>
 </div>
 
 
@@ -376,7 +318,7 @@ Para comprobar lo calculado tratamos de formar una resistencia de 35 454.55 Ω a
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/h8.-Botadero%20Frenta%20a%20la%20Upch.jpg" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab2/14.-Ejercicio%204_%20Circuito.jpeg" width="300px"/>
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/C-Definción%20del%20problema/h81.-Botadero%20Frenta%20a%20la%20Upch.jpg" width="400px"/>
 </div>
 
