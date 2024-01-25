@@ -295,25 +295,25 @@ Evidencias del resultado:
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/c3.-temperatura_F.jpeg" alt="imagen del grupo" width="400px"/>
 </p>
 
-*** Figura 6:***  Temperatura del ambiente en grados Fahrenheit. Elaboración propia.
+***Figura 6:***  Temperatura del ambiente en grados Fahrenheit. Elaboración propia.
 
 <p align= "center">
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/c31.-temperatura_celsius.jpeg" alt="imagen del grupo" width="400px"/>
 </p>
 
-*** Figura 7:***  Temperatura del ambiente en grados Celsius. Elaboración propia.
+***Figura 7:***  Temperatura del ambiente en grados Celsius. Elaboración propia.
 
 <p align= "center">
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/c32.-temperatura_kelvin.jpeg" alt="imagen del grupo" width="400px"/>
 </p>
 
-*** Figura 8:***  Temperatura del ambiente en grados Kelvin. Elaboración propia.
+***Figura 8:***  Temperatura del ambiente en grados Kelvin. Elaboración propia.
 
 <p align= "center">
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/c33.-código.jpeg" alt="imagen del grupo" width="400px"/>
 </p>
 
-*** Figura 9:***  Imagen de la ejecución del código en el editor online de arduino. Elaboración propia. 
+***Figura 9:***  Imagen de la ejecución del código en el editor online de arduino. Elaboración propia. 
 
 
 ### 3.  ENCENDIDO DE LAS LEDS DEL OPLA iOT, POR DETECCIÓN DE MOVIMIENTO MEDIANTE EL SENSOR PIR
