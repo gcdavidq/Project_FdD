@@ -21,7 +21,7 @@
     **LIMA - PERÚ**
         **2024**
 
-## **1. INTRODUCCIÓN:**
+## **INTRODUCCIÓN:**
 
 En el presente informe de laboratorio, se dará a conocer acerca de lo que se desarrolló en la sesión N° 04 del día 24/01/2024, en donde nos introducimos al uso de Arduino nano 33 IoT, con ayuda de otros componentes como la Arduino MKR Wifi 1010, la cual es una placa microcontroladora con un chip que permite realizar conexiones inalámbricas a otras placas u ordenadores a través del bluetooth y wifi, la MKR IoT Carrier que es una extensión de la placa Arduino MKR Wifi 1010, esta placa no dispone de un microcontrolador, es por ello que solo funciona siempre y cuando una placa Arduino MKR esté conectada a ella, asimismo, contiene todos los circuitos y sensores ya integrados, permitiendo que nos concentremos mejor en la programación y el Cable Micro USB el cual permitirá conectar a la MKR IoT Carrier al ordenador o laptop (1).
 
@@ -166,7 +166,7 @@ Evidencia del resultado:
 
 ###  2. TEMPERATURA LOCAL EN SUS 3 ESCALAS (CELSIUS (°C) FAHRENHEIT (°F) Y KELVIN (K)).
 
-Como segundo ejercicio, se nos encargó el desafío de escribir líneas de código de tal manera que al presionar el TOUCH (Boton que mostraba en la pantalla la temperatura) se muestre la temperatura en grados Celsius, pero si se lo volvía a tocar una vez más, esta cambiaba a escala Fahrenheit, y si se lo tocaba por tercera vez se cambia a escala Kelvin. Esto quiere decir que solo se cambiaron porciones de código, que se explicarán más adelante junto con este a manera de comentarios.
+Como segundo ejercicio, se nos encargó el desafío de escribir líneas de código de tal manera que al presionar el TOUCH (Boton que mostraba en la pantalla la temperatura) se muestre la temperatura en grados Celsius, pero si se lo volvía a tocar una vez más, esta cambiaba a escala Fahrenheit, y si se lo tocaba por tercera vez se cambia a escala Kelvin. Esto quiere decir que solo se cambiaron porciones de código, que se explicarán más adelante junto con este a manera de comentarios(2).
 
 Codigo usado:
 
