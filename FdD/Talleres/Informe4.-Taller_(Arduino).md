@@ -16,8 +16,6 @@
 - JUAN MANUEL ZUÑIGA MAMANI
 
     **LIMA - PERÚ**
-    
-       **2024**
 
 ## **1. INTRODUCCIÓN:**
 
