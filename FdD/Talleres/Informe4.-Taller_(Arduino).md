@@ -1,6 +1,9 @@
-# FACULTAD DE CIENCIAS E INGENIERÍA
-
-## **“Alberto Cazorla Talleri”**
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Facultad de Ciencias e ingeniería</h1>
+  <p align="center">
+    <img src="https://3.files.edl.io/fdf6/22/05/20/143302-79bed48a-5422-4ab4-81ec-98e0f944c4a0.png" width="300" alt="Facultad de Ciencias e ingeniería logo">
+  </p>  
+</p>
 
 ## INFORME DE LABORATORIO N.º 04: USO DE ARDUINO NANO 33 IOT
 
@@ -384,8 +387,8 @@ void printHumidity() {
 ```
 
 Este código debe  activar una serie de efectos visuales y sonoros en respuesta a una temperatura inferior a 28 grados Celsius. Configura ciertos píxeles de una tira de LEDs en rojo, emite un tono y muestra la temperatura en una pantalla junto con un mensaje indicando que hace calor.
-Nota: No tenemos las evidencias correspondientes a este ejercicio porque tuvimos un error en el código y no pudimos llegar a la salida deseada, pero adjuntamos una foto del grupo 1 para poder tener una idea de la salida que debimos haber obtenido.
 
+***Nota:*** No tenemos las evidencias correspondientes a este ejercicio porque tuvimos un error en el código y no pudimos llegar a la salida deseada.
 
 
 
@@ -398,8 +401,6 @@ En la actividad, hemos explorado los dos elementos centrales de nuestro conjunto
 2. Programación Lógica: La programación lógica basada en umbrales facilita la toma de decisiones para activar o desactivar dispositivos en respuesta a cambios en las variables medidas, como la temperatura y la humedad, en este caso.
 
 3. Adaptabilidad y Personalización: La modularidad y flexibilidad de Arduino permiten ajustar fácilmente el código a diferentes situaciones, posibilitando la personalización del sistema según los requisitos específicos del usuario.
-
-
 
 
 ### REFERENCIAS BIBLIOGRÁFICAS:
