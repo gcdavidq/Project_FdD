@@ -1,3 +1,1 @@
-<p align="center">
- <h1>FACULTAD DE CIENCIAS E INGENIERÍA</h1>
-</p>
+# <p style="text-align: center;">FACULTAD DE CIENCIAS E INGENIERÍA</p>
