@@ -44,7 +44,7 @@ Durante la sesión se realizaron con ayuda de los componentes antes descritos ci
 </p>
 
 
-<p style="text-align: center;">
+<p align="center">
 
 ***Figura 3.*** Conexión de la MKR IoT Carrier a la laptop. Elaboración propia.
 
