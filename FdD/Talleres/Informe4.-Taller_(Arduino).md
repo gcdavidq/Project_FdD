@@ -28,23 +28,27 @@ En el presente informe de laboratorio, se dará a conocer acerca de lo que se de
 Durante la sesión se realizaron con ayuda de los componentes antes descritos ciertas actividades que nos permitieron completar los objetivos propuestos, como por ejemplo, registrar la temperatura y la humedad localmente, mostrar la temperatura local en sus 3 escalas (Fahrenheit (°F), Celsius (°C), y Kelvin (K)), encender las luces leds de color verde cada vez que una persona se acerque, esto con ayuda de un sensor de movimiento y por último encender de color azul una de las luces leds cuando el dispositivo esté en un lugar frío y de color rojo cuando esté en un lugar caliente. A continuación, dichas actividades pasan a ser más detalladas.
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/a1.-Arduino.jpeg" alt="imagen del grupo" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/a1.-Arduino.jpeg" alt="imagen del grupo" width="400px"/>
 </p>
 
 ***Figura 1.***   Arduino MKR WiFi 1010. Elaboración propia.
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/a11.-sensores.jpeg" alt="imagen del grupo" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/a11.-sensores.jpeg" alt="imagen del grupo" width="400px"/>
 </p>
 
 ***Figura 2.*** MKR IoT Carrier. Elaboración propia.
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/a12.-código.jpeg" alt="imagen del grupo" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/a12.-código.jpeg" alt="imagen del grupo" width="400px"/>
 </p>
 
 
+<center>
+
 ***Figura 3.*** Conexión de la MKR IoT Carrier a la laptop. Elaboración propia.
+
+</center>
 
 
 ### 1. REGISTRO DE LA TEMPERATURA Y LA HUMEDAD LOCAL. 
@@ -153,8 +157,8 @@ void printHumidity() {
 Evidencia del resultado:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/b2.-humedad.jpeg" width="400px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/b21.-temperatura.jpeg" width="400px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/b2.-humedad.jpeg" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/b21.-temperatura.jpeg" width="300px"/>
 </div>
 
 ***Figura 4:*** Visualización de la humedad del ambiente en el display. Elaboración propia. | ***Figura 5:*** Visualización de la temperatura del ambiente en el display. Elaboración propia.
