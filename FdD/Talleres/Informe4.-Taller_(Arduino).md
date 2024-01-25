@@ -404,5 +404,6 @@ En la actividad, hemos explorado los dos elementos centrales de nuestro conjunto
 
 ### REFERENCIAS BIBLIOGRÁFICAS:
 
-Explore IoT Kit [Internet]. [citado 24 de enero de 2024]. Disponible en: https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/internet-of-things
+1. Explore IoT Kit. [citado 24 de enero de 2024]. Disponible en: https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/internet-of-things
 
+2.	Sensor de Movimiento PIR HC-SR501. Edu.co. [citado el 25 de enero de 2024]. Disponible en: https://www.unipamplona.edu.co/unipamplona/portalIG/home_74/recursos/visual-basic-para-excel/17052017/u5_movimiento.jsp
