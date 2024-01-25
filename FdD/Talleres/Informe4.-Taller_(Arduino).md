@@ -190,197 +190,113 @@ Codigo usado:
 
 ```cpp
 // Bibliotecas importadas y empleadas:
-
 #include <Adafruit_EEPROM_I2C.h>
-
 #include <Adafruit_FRAM_I2C.h>
-
 #include <Adafruit_GFX.h>
-
 #include <Adafruit_GrayOLED.h>
-
 #include <Adafruit_SPITFT.h>
-
 #include <Adafruit_SPITFT_Macros.h>
-
 #include <gfxfont.h>
-
 #include <AirQualityClass.h>
-
 #include <Arduino_MKRIoTCarrier.h>
-
 #include <Arduino_MKRIoTCarrier_Buzzer.h>
-
 #include <Arduino_MKRIoTCarrier_Qtouch.h>
-
 #include <Arduino_MKRIoTCarrier_Relay.h>
-
 #include <EnvClass.h>
-
 #include <IMUClass.h>
-
 #include <MKRIoTCarrierDefines.h>
-
 #include <PressureClass.h>
-
 
 //Declaracion de variables globales para almacenar los valores de temperatura y humedad, ademas, se han agregado variables booleanas que permitiran gestionar la unidad de temperatura actual.
 MKRIoTCarrier carrier;
 
-
 float temperature = 0;
-
 float humidity = 0;
-
 bool celsius = true;  // Variable para almacenar la unidad actual de temperatura
-
 bool kelvin = false;  // Variable para almacenar si se muestra la temperatura en Kelvin
-
 
 //Aparte de lo explicado en el primer ejercicio, se ha agregado un delay para abrir el setup y ver detalles de errores si existieran:
 void setup() {
-
   Serial.begin(9600);
-
   delay(1500);  
-
   CARRIER_CASE = true;
-
   carrier.begin();
-
 }
 
 void loop() {
-
   temperature = carrier.Env.readTemperature();
-
   humidity = carrier.Env.readHumidity();
-
   carrier.Buttons.update();
-
-
  
   Serial.print("Temperature = ");
-
   Serial.print(temperature);
-
   Serial.println("  °C");
-
-
  
   Serial.print("Humidity = ");
-
   Serial.print(humidity);
-
   Serial.println(" %");
 
-
   if (carrier.Button0.onTouchDown()) {
-
     toggleTemperatureUnit(); // Cambia la unidad de temperatura al tocar el botón 0
-
     printTemperature();
-
   }
 
   if (carrier.Button1.onTouchDown()) {
-
     printHumidity();
   }
 }
-
-
 //Se implementó una nueva función que permitirá cambiar entre las unidades de temperatura ya mencionadas. Si estaba en Celsius, cambia a Fahrenheit y activa Kelvin; si estaba en Fahrenheit o Kelvin, cambia a Celsius y desactiva Kelvin.
 
-
 void toggleTemperatureUnit() {
-
   // Cambia entre Celsius, Fahrenheit y Kelvin
-
   if (celsius) {
-
     celsius = false;  // Cambia a Fahrenheit
-
     kelvin = true;    // Activa Kelvin
-
   } else {
-
     celsius = true;   // Cambia a Celsius
-
     kelvin = false;   // Desactiva Kelvin
-
   }
 }
 
 void printTemperature() {
-
   carrier.display.fillScreen(ST77XX_RED); // Fondo rojo
-
   carrier.display.setTextColor(ST77XX_WHITE); // Texto blanco
-
   carrier.display.setTextSize(6); // Tamaño de texto grande
-
-
  
   carrier.display.setCursor(30, 50);
-
   carrier.display.print("Temp: ");
-
  // En la variable printTemperature se han agregado nuevas condicionales, las cuales dependiendo de la temperatura seleccionada se imprimirán en la pantalla, en este punto se realizan las respectivas conversiones de unidades:
  
   if (celsius) {
-
     carrier.display.setTextSize(4);
-
     carrier.display.setCursor(40, 120);
-
     carrier.display.print(temperature);
-
     carrier.display.print(" C");
-
   } else if (kelvin) {
-
     carrier.display.setTextSize(4);
-
     carrier.display.setCursor(40, 120);
-
     carrier.display.print(temperature + 273.15);  // Convierte a Kelvin
-
     carrier.display.print(" K");
-
   } else {
-
     float tempConverted = (celsius) ? temperature : temperature * 9 / 5 + 32;
-
     carrier.display.setTextSize(4);
-
     carrier.display.setCursor(40, 120);
-
     carrier.display.print(tempConverted);
-
     carrier.display.print(" F");
-
   }
 }
 
 void printHumidity() {
-
   carrier.display.fillScreen(ST77XX_BLUE); // Fondo azul
-
   carrier.display.setTextColor(ST77XX_WHITE); // Texto blanco
-
   carrier.display.setTextSize(2); // Tamaño de texto mediano
-
-
  
   carrier.display.setCursor(20, 110);
-
   carrier.display.print("Humidity: ");
-
   carrier.display.print(humidity);
-
   carrier.display.print(" %");
 }
+
 ```
  
 
