@@ -31,7 +31,9 @@ Durante la sesión se realizaron con ayuda de los componentes antes descritos ci
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/a1.-Arduino.jpeg" alt="imagen del grupo" width="400px"/>
 </p>
 
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
 ***Figura 1.***   Arduino MKR WiFi 1010. Elaboración propia.
+</p>
 
 <p align= "center">
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/a11.-sensores.jpeg" alt="imagen del grupo" width="400px"/>
