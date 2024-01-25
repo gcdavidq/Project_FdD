@@ -1,4 +1,4 @@
-## FACULTAD DE CIENCIAS E INGENIERÍA
+                   ## FACULTAD DE CIENCIAS E INGENIERÍA
 
 ### **“Alberto Cazorla Talleri”**
 
@@ -18,7 +18,7 @@
 - JUAN MANUEL ZUÑIGA MAMANI
 
     **LIMA - PERÚ**
-    
+
        **2024**
 
 ## **INTRODUCCIÓN:**
