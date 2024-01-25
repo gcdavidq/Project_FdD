@@ -74,7 +74,7 @@ Para que se puedan leer los valores de los sensores mencionados, es necesario in
 
 Arduino_MKRIoTCarrier
 
-**Codigo empleado:**
+**Código empleado:**
 
 // Se inicia con la agregación de biblioteca Arduino_MKRIoTCarrier.h, que proporciona las funciones necesarias para interactuar con el módulo IoT Carrier y otros periféricos:
 ```cpp
@@ -293,7 +293,7 @@ void printHumidity() {
 ```
  
 
-Evidencias del resultado:
+**Evidencias del resultado:**
 
 <p align= "center">
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/c3.-temperatura_F.jpeg" alt="imagen del grupo" width="400px"/>
