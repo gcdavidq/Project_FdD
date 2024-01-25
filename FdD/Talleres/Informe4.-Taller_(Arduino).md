@@ -32,7 +32,7 @@ Durante la sesión se realizaron con ayuda de los componentes antes descritos ci
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-***Figura 1.***   Arduino MKR WiFi 1010. Elaboración propia.
+*Figura 1.*   Arduino MKR WiFi 1010. Elaboración propia.
 </p>
 
 <p align= "center">
