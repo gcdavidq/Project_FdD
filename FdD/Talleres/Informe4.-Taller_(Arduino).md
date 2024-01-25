@@ -172,8 +172,11 @@ Codigo usado:
 #include <IMUClass.h>
 #include <MKRIoTCarrierDefines.h>
 #include <PressureClass.h>
+```
 
 //Declaracion de variables globales para almacenar los valores de temperatura y humedad, ademas, se han agregado variables booleanas que permitiran gestionar la unidad de temperatura actual.
+
+```cpp
 MKRIoTCarrier carrier;
 
 float temperature = 0;
@@ -211,8 +214,11 @@ void loop() {
     printHumidity();
   }
 }
+```
+
 //Se implementó una nueva función que permitirá cambiar entre las unidades de temperatura ya mencionadas. Si estaba en Celsius, cambia a Fahrenheit y activa Kelvin; si estaba en Fahrenheit o Kelvin, cambia a Celsius y desactiva Kelvin.
 
+```cpp
 void toggleTemperatureUnit() {
   // Cambia entre Celsius, Fahrenheit y Kelvin
   if (celsius) {
@@ -231,8 +237,11 @@ void printTemperature() {
  
   carrier.display.setCursor(30, 50);
   carrier.display.print("Temp: ");
+```
+
  // En la variable printTemperature se han agregado nuevas condicionales, las cuales dependiendo de la temperatura seleccionada se imprimirán en la pantalla, en este punto se realizan las respectivas conversiones de unidades:
  
+ ```cpp
   if (celsius) {
     carrier.display.setTextSize(4);
     carrier.display.setCursor(40, 120);
@@ -262,7 +271,6 @@ void printHumidity() {
   carrier.display.print(humidity);
   carrier.display.print(" %");
 }
-
 ```
  
 
