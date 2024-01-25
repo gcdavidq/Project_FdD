@@ -27,11 +27,21 @@ En el presente informe de laboratorio, se dará a conocer acerca de lo que se de
 
 Durante la sesión se realizaron con ayuda de los componentes antes descritos ciertas actividades que nos permitieron completar los objetivos propuestos, como por ejemplo, registrar la temperatura y la humedad localmente, mostrar la temperatura local en sus 3 escalas (Fahrenheit (°F), Celsius (°C), y Kelvin (K)), encender las luces leds de color verde cada vez que una persona se acerque, esto con ayuda de un sensor de movimiento y por último encender de color azul una de las luces leds cuando el dispositivo esté en un lugar frío y de color rojo cuando esté en un lugar caliente. A continuación, dichas actividades pasan a ser más detalladas.
 
-
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/a1.-Arduino.jpeg" alt="imagen del grupo" width="300px"/>
+</p>
 
 ***Figura 1.***   Arduino MKR WiFi 1010. Elaboración propia.
 
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/a11.-sensores.jpeg" alt="imagen del grupo" width="300px"/>
+</p>
+
 ***Figura 2.*** MKR IoT Carrier. Elaboración propia.
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/a12.-código.jpeg" alt="imagen del grupo" width="300px"/>
+</p>
 
 
 ***Figura 3.*** Conexión de la MKR IoT Carrier a la laptop. Elaboración propia.
@@ -59,7 +69,7 @@ Para que se puedan leer los valores de los sensores mencionados, es necesario in
 
 Arduino_MKRIoTCarrier
 
-Codigo empleado:
+**Codigo empleado:**
 
 // Se inicia con la agregación de biblioteca Arduino_MKRIoTCarrier.h, que proporciona las funciones necesarias para interactuar con el módulo IoT Carrier y otros periféricos:
 ```cpp
@@ -142,14 +152,12 @@ void printHumidity() {
 
 Evidencia del resultado:
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/b2.-humedad.jpeg" width="400px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/b21.-temperatura.jpeg" width="400px"/>
+</div>
 
-
-
-
-
-
-
-
+***Figura 4:*** Visualización de la humedad del ambiente en el display. Elaboración propia. | ***Figura 5:*** Visualización de la temperatura del ambiente en el display. Elaboración propia.
 
 ###  2. TEMPERATURA LOCAL EN SUS 3 ESCALAS (CELSIUS (°C) FAHRENHEIT (°F) Y KELVIN (K)).
 
@@ -283,8 +291,10 @@ void printHumidity() {
 Evidencias del resultado:
 
 
-
-
+*** Figura 6:***  Temperatura del ambiente en grados Fahrenheit. Elaboración propia.
+*** Figura 7:***  Temperatura del ambiente en grados Celsius. Elaboración propia.
+*** Figura 8:***  Temperatura del ambiente en grados Kelvin. Elaboración propia.
+*** Figura 9:***  Imagen de la ejecución del código en el editor online de arduino. Elaboración propia. 
 
 
 ### 3.  ENCENDIDO DE LAS LEDS DEL OPLA iOT, POR DETECCIÓN DE MOVIMIENTO MEDIANTE EL SENSOR PIR
@@ -293,7 +303,7 @@ Lamentablemente este ejercicio no pudimos ejecutar, el ejercicio se tenía que r
 
 
 
-***Figura :*** Representación de los 5 leds alrededor de la pantalla LCD . Elaboración propia.
+***Figura 10:*** Representación de los 5 leds alrededor de la pantalla LCD . Elaboración propia.
 
 
 
