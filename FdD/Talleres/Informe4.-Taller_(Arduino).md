@@ -188,6 +188,7 @@ Como segundo ejercicio, se nos encargó el desafío de escribir líneas de códi
 
 Codigo usado:
 
+```cpp
 // Bibliotecas importadas y empleadas:
 
 #include <Adafruit_EEPROM_I2C.h>
@@ -380,7 +381,7 @@ void printHumidity() {
 
   carrier.display.print(" %");
 }
-
+```
  
 
 Evidencias del resultado:
