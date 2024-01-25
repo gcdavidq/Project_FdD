@@ -59,16 +59,18 @@ Arduino_MKRIoTCarrier
 Codigo empleado:
 
 // Se inicia con la agregación de biblioteca Arduino_MKRIoTCarrier.h, que proporciona las funciones necesarias para interactuar con el módulo IoT Carrier y otros periféricos:
-
+```cpp
 #include <Arduino_MKRIoTCarrier.h>
-
+```
 // Se declara un objeto carrier de la clase MKRIoTCarrier, que se utilizará para interactuar con el módulo IoT Carrier. También se declaran variables globales para almacenar los valores de temperatura (temperature) y humedad (humidity). Dichos valores serán del tipo float
 
 ```cpp
 MKRIoTCarrier carrier;
 float temperature = 0;
 float humidity = 0;
+```
  // En la funcion setup, se inicia la comunicación con una velocidad de 9600, se configura la variable CARRIER_CASE (que hace referencia a si está colocada la carcasa de plastico del carrier) por lo que colocamos que sí (True)
+```cpp
 void setup() {
   Serial.begin(9600);
   CARRIER_CASE = true;
@@ -76,7 +78,10 @@ void setup() {
 
   carrier.begin();
 }
+```
 // En la función Loop, se empieza leyendo los valores de temperatura y humedad del sensor mediante los metodos de readTemperature(). Luego, se actualizan los botones tactiles mediante el metodo de update. Continuando con el codigo, los valores de la temperatura y humedad se imprimen en el monitor de manera serial, cada uno acompañado de caracteres tipo string. Por ultimo, si se detecta el boton TOUCH0 o TOUCH1, se llaman a las funciones de Temperatura y Humedad respectivamente. 
+
+```cpp
 void loop() {
   temperature = carrier.Env.readTemperature();
   humidity = carrier.Env.readHumidity();
@@ -99,8 +104,11 @@ void loop() {
     printHumidity();
   }
 }
- 
-// Estas dos ultimas funciones están diseñadas para configurar la pantalla conectada al modulo Carrier y mostrar los valores de temperatura o humedad (de acuerdo a como se seleccione con los TOUCH´s ya mencionados), variando en el texto así como en el tamaño y color de este. 
+```
+
+// Estas dos ultimas funciones están diseñadas para configurar la pantalla conectada al modulo Carrier y mostrar los valores de temperatura o humedad (de acuerdo a como se seleccione con los TOUCH´s ya mencionados), variando en el texto así como en el tamaño y color de este.
+
+```cpp
 void printTemperature() {
 
 
