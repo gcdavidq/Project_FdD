@@ -44,9 +44,9 @@ Durante la sesión se realizaron con ayuda de los componentes antes descritos ci
 </p>
 
 
-\begin{center}
+
 ***Figura 3.*** Conexión de la MKR IoT Carrier a la laptop. Elaboración propia.
-\end{center}
+
 
 ### 1. REGISTRO DE LA TEMPERATURA Y LA HUMEDAD LOCAL. 
 
@@ -291,10 +291,28 @@ void printHumidity() {
 
 Evidencias del resultado:
 
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/c3.-temperatura_F.jpeg" alt="imagen del grupo" width="400px"/>
+</p>
 
 *** Figura 6:***  Temperatura del ambiente en grados Fahrenheit. Elaboración propia.
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/c31.-temperatura_celsius.jpeg" alt="imagen del grupo" width="400px"/>
+</p>
+
 *** Figura 7:***  Temperatura del ambiente en grados Celsius. Elaboración propia.
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/c32.-temperatura_kelvin.jpeg" alt="imagen del grupo" width="400px"/>
+</p>
+
 *** Figura 8:***  Temperatura del ambiente en grados Kelvin. Elaboración propia.
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/c33.-código.jpeg" alt="imagen del grupo" width="400px"/>
+</p>
+
 *** Figura 9:***  Imagen de la ejecución del código en el editor online de arduino. Elaboración propia. 
 
 
@@ -302,7 +320,9 @@ Evidencias del resultado:
 
 Lamentablemente este ejercicio no pudimos ejecutar, el ejercicio se tenía que realizar con la Opla Iot junto con el sensor pir(sensor de movimiento), la Opla contiene  5 leds alrededor de la pantalla LCD, los cuales tenían que encenderse al momento de que el sensor pir captará movimiento, todos los 5 leds debían encenderse de verde y apagarse cuando no detectaron nada en su rango de alcance de 3 a 7 metros.  
 
-
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/d.-4_luces_led.jpeg" alt="imagen del grupo" width="400px"/>
+</p>
 
 ***Figura 10:*** Representación de los 5 leds alrededor de la pantalla LCD . Elaboración propia.
 
