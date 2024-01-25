@@ -27,12 +27,12 @@ En el presente informe de laboratorio, se dará a conocer acerca de lo que se de
 
 Durante la sesión se realizaron con ayuda de los componentes antes descritos ciertas actividades que nos permitieron completar los objetivos propuestos, como por ejemplo, registrar la temperatura y la humedad localmente, mostrar la temperatura local en sus 3 escalas (Fahrenheit (°F), Celsius (°C), y Kelvin (K)), encender las luces leds de color verde cada vez que una persona se acerque, esto con ayuda de un sensor de movimiento y por último encender de color azul una de las luces leds cuando el dispositivo esté en un lugar frío y de color rojo cuando esté en un lugar caliente. A continuación, dichas actividades pasan a ser más detalladas.
 
-<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-<i>Figura 1.</i> Arduino MKR WiFi 1010. Elaboración propia.
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/a1.-Arduino.jpeg" alt="imagen del grupo" width="400px"/>
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-_Figura 1._   Arduino MKR WiFi 1010. Elaboración propia.
+<em><strong>Figura 1</strong></em> Arduino MKR WiFi 1010. Elaboración propia.
 </p>
 
 <p align= "center">
