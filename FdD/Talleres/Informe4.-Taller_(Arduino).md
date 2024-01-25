@@ -148,7 +148,7 @@ Evidencia del resultado:
 
 
 
-2. TEMPERATURA LOCAL EN SUS 3 ESCALAS (CELSIUS (°C) FAHRENHEIT (°F) Y KELVIN (K)).
+###  2. TEMPERATURA LOCAL EN SUS 3 ESCALAS (CELSIUS (°C) FAHRENHEIT (°F) Y KELVIN (K)).
 
 Como segundo ejercicio, se nos encargó el desafío de escribir líneas de código de tal manera que al presionar el TOUCH (Boton que mostraba en la pantalla la temperatura) se muestre la temperatura en grados Celsius, pero si se lo volvía a tocar una vez más, esta cambiaba a escala Fahrenheit, y si se lo tocaba por tercera vez se cambia a escala Kelvin. Esto quiere decir que solo se cambiaron porciones de código, que se explicarán más adelante junto con este a manera de comentarios.
 
@@ -284,5 +284,146 @@ Evidencias del resultado:
 
 
 
-3.  ENCENDIDO DE LAS LEDS DEL OPLA iOT, POR DETECCIÓN DE MOVIMIENTO MEDIANTE EL SENSOR PIR
-Lamentablemente este ejercicio no pudimos ejecutar, el ejercicio se tenía que realizar con la Opla Iot junto con el sensor pir(sensor de movimiento), la Opla contiene  5 leds alrededor de la pantalla LCD, los cuales tenían que encenderse al momento de que el sensor pir captará movimiento, todos los 5 leds debían encenderse de verde y apagarse cuando no detectaron nada en su rango de alcance de 3 a 7 metros (2).  
+### 3.  ENCENDIDO DE LAS LEDS DEL OPLA iOT, POR DETECCIÓN DE MOVIMIENTO MEDIANTE EL SENSOR PIR
+
+Lamentablemente este ejercicio no pudimos ejecutar, el ejercicio se tenía que realizar con la Opla Iot junto con el sensor pir(sensor de movimiento), la Opla contiene  5 leds alrededor de la pantalla LCD, los cuales tenían que encenderse al momento de que el sensor pir captará movimiento, todos los 5 leds debían encenderse de verde y apagarse cuando no detectaron nada en su rango de alcance de 3 a 7 metros.  
+
+
+
+***Figura :*** Representación de los 5 leds alrededor de la pantalla LCD . Elaboración propia.
+
+
+
+### 4. CAMBIO DE COLOR DE ACUERDO A  LA TEMPERATURA REGISTRADA
+
+En este ejercicio lo que se pedía era tomar una temperatura inicial y de acuerdo a eso establecer un código que nos permita comparar las temperaturas con umbrales predefinidos, es decir, si se detecta una temperatura mayor a 28 °C se prenderá la luz de color rojo que hace referencia al exceso de calor de lo contrario si es una temperatura menor a 28 °C se prenderá la luz de color azul que hace referencia al frío.
+
+**CÓDIGO REALIZADO:**
+
+```cpp
+include <Arduino_MKRIoTCarrier.h>
+MKRIoTCarrier carrier;
+
+
+float temperature = 0;
+float humidity = 0;
+
+
+void setup() {
+  Serial.begin(9600);
+  delay(1500);
+  CARRIER_CASE = true;
+  carrier.begin();
+}
+
+
+void loop() {
+  // leer los valores del sensor
+  temperature = carrier.Env.readTemperature();
+  humidity = carrier.Env.readHumidity();
+
+
+  // actualizar los botones táctiles
+  carrier.Buttons.update();
+
+
+  // imprimir cada uno de los valores del sensor
+  Serial.print("Temperature = ");
+  Serial.print(temperature);
+  Serial.println(" °C");
+
+
+  Serial.print("Humidity = ");
+  Serial.print(humidity);
+  Serial.println(" %");
+
+
+  // función para imprimir los valores
+  if (carrier.Button0.onTouchDown()) {
+    printTemperature();
+  }
+
+
+  if (carrier.Button1.onTouchDown()) {
+    printHumidity();
+  }
+
+
+  // Cambiar el color del display basado en la temperatura
+  if (temperature > 28.0) {
+    carrier.display.fillScreen(ST77XX_RED); // fondo rojo
+    carrier.display.setTextColor(ST77XX_WHITE);
+  } else {
+    carrier.display.fillScreen(ST77XX_BLUE); // fondo azul
+    carrier.display.setTextColor(ST77XX_WHITE);
+  }
+}
+
+
+void printTemperature() {
+  // configurar el display, tamaño de texto y posición
+  carrier.display.setTextSize(6);
+  carrier.display.setCursor(30, 50);
+  carrier.display.print("Temp: ");
+ 
+  carrier.display.setTextSize(4);
+  carrier.display.setCursor(40, 120);
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+}
+
+
+void printHumidity() {
+  // configurar el display, tamaño de texto y posición
+  carrier.display.setTextSize(2);
+  carrier.display.setCursor(20, 110);
+  carrier.display.print("Humi: ");
+  carrier.display.print(humidity);
+  carrier.display.println(" %");
+}
+```
+
+Este código debe  activar una serie de efectos visuales y sonoros en respuesta a una temperatura inferior a 28 grados Celsius. Configura ciertos píxeles de una tira de LEDs en rojo, emite un tono y muestra la temperatura en una pantalla junto con un mensaje indicando que hace calor.
+Nota: No tenemos las evidencias correspondientes a este ejercicio porque tuvimos un error en el código y no pudimos llegar a la salida deseada, pero adjuntamos una foto del grupo 1 para poder tener una idea de la salida que debimos haber obtenido.
+
+
+
+
+### 5. COMENTARIOS
+
+En la actividad, hemos explorado los dos elementos centrales de nuestro conjunto: la placa Arduino MKR WiFi 1010 y la MKR IoT Carrier. Además, hemos realizado pruebas para familiarizarnos con algunas de sus funciones, como la lectura de temperatura y humedad, la utilización de la pantalla de la portadora, y finalmente, hemos adquirido conocimientos sobre cómo emplear los botones capacitivos de la MKR IoT Carrier.
+Integración de sensores: Al combinar sensores como el HTS221 con actuadores como luces LED en Arduino, se logra la creación de sistemas simples pero eficaces para responder a condiciones ambientales específicas.
+ 
+Programación Lógica: La programación lógica basada en umbrales facilita la toma de decisiones para activar o desactivar dispositivos en respuesta a cambios en las variables medidas, como la temperatura y la humedad, en este caso.
+
+Adaptabilidad y Personalización: La modularidad y flexibilidad de Arduino permiten ajustar fácilmente el código a diferentes situaciones, posibilitando la personalización del sistema según los requisitos específicos del usuario.
+
+Adaptabilidad y Personalización: La modularidad y flexibilidad de Arduino permiten ajustar fácilmente el código a diferentes situaciones, posibilitando la personalización del sistema según los requisitos específicos del usuario.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REFERENCIAS BIBLIOGRÁFICAS:
+
+Explore IoT Kit [Internet]. [citado 24 de enero de 2024]. Disponible en: https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/internet-of-things
+
