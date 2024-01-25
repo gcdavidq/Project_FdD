@@ -1,1 +1,3 @@
-<h1><center>FACULTAD DE CIENCIAS E INGENIERÍA</center></h1>
+\begin{center}
+<h1>FACULTAD DE CIENCIAS E INGENIERÍA</h1>
+\end{center}
