@@ -155,7 +155,7 @@ void printHumidity() {
 ```
 
 
-Evidencia del resultado:
+**Evidencia del resultado:**
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/b2.-humedad.jpeg" width="200px"/>
@@ -168,7 +168,7 @@ Evidencia del resultado:
 
 Como segundo ejercicio, se nos encargó el desafío de escribir líneas de código de tal manera que al presionar el TOUCH (Boton que mostraba en la pantalla la temperatura) se muestre la temperatura en grados Celsius, pero si se lo volvía a tocar una vez más, esta cambiaba a escala Fahrenheit, y si se lo tocaba por tercera vez se cambia a escala Kelvin. Esto quiere decir que solo se cambiaron porciones de código, que se explicarán más adelante junto con este a manera de comentarios.
 
-Codigo usado:
+Código usado:
 
 ```cpp
 // Bibliotecas importadas y empleadas:
