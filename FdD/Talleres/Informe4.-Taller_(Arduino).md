@@ -285,4 +285,4 @@ Evidencias del resultado:
 
 
 3.  ENCENDIDO DE LAS LEDS DEL OPLA iOT, POR DETECCIÓN DE MOVIMIENTO MEDIANTE EL SENSOR PIR
-Lamentablemente este ejercicio no pudimos ejecutar, el ejercicio se tenía que realizar con la Opla Iot junto con el sensor pir(sensor de movimiento), la Opla contiene  5 leds alrededor de la pantalla LCD, los cuales tenían que encenderse al momento de que el sensor pir captará movimiento, todos los 5 leds debían encenderse de verde y apagarse cuando no detectaron nada en su rango de alcance de 3 a 7 metros.  
+Lamentablemente este ejercicio no pudimos ejecutar, el ejercicio se tenía que realizar con la Opla Iot junto con el sensor pir(sensor de movimiento), la Opla contiene  5 leds alrededor de la pantalla LCD, los cuales tenían que encenderse al momento de que el sensor pir captará movimiento, todos los 5 leds debían encenderse de verde y apagarse cuando no detectaron nada en su rango de alcance de 3 a 7 metros (2).  
