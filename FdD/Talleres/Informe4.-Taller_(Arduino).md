@@ -158,8 +158,8 @@ void printHumidity() {
 Evidencia del resultado:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/b2.-humedad.jpeg" width="300px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/b21.-temperatura.jpeg" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/b2.-humedad.jpeg" width="200px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab3/b21.-temperatura.jpeg" width="200px"/>
 </div>
 
 ***Figura 4:*** Visualización de la humedad del ambiente en el display. Elaboración propia. | ***Figura 5:*** Visualización de la temperatura del ambiente en el display. Elaboración propia.
