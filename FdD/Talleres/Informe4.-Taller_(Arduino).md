@@ -2,7 +2,7 @@
 
 ## **“Alberto Cazorla Talleri”**
 
-## INFORME DE LABORATORIO N.º 04: USO DE ARDUINO NANO 33 IOT**
+## INFORME DE LABORATORIO N.º 04: USO DE ARDUINO NANO 33 IOT
 
 
 
@@ -16,9 +16,8 @@
 - JUAN MANUEL ZUÑIGA MAMANI
 
     **LIMA - PERÚ**
-
-
-       **2024**
+    
+         2024
 
 ## **1. INTRODUCCIÓN:**
 
