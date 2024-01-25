@@ -44,11 +44,11 @@ Durante la sesión se realizaron con ayuda de los componentes antes descritos ci
 </p>
 
 
-<center>
+<p style="text-align: center;">
 
 ***Figura 3.*** Conexión de la MKR IoT Carrier a la laptop. Elaboración propia.
 
-</center>
+</p>
 
 
 ### 1. REGISTRO DE LA TEMPERATURA Y LA HUMEDAD LOCAL. 
