@@ -64,111 +64,71 @@ Codigo empleado:
 
 // Se declara un objeto carrier de la clase MKRIoTCarrier, que se utilizará para interactuar con el módulo IoT Carrier. También se declaran variables globales para almacenar los valores de temperatura (temperature) y humedad (humidity). Dichos valores serán del tipo float
 
+```cpp
 MKRIoTCarrier carrier;
-
 float temperature = 0;
-
 float humidity = 0;
-
- // En la funcion setup, se inicia la comunicación con una velocidad de 9600, se configura la variable CARRIER_CASE (que hace referencia a si está colocada la carcasa de plastico del carrier) por lo que colocamos que sí (True).
-
+ // En la funcion setup, se inicia la comunicación con una velocidad de 9600, se configura la variable CARRIER_CASE (que hace referencia a si está colocada la carcasa de plastico del carrier) por lo que colocamos que sí (True)
 void setup() {
-
   Serial.begin(9600);
-
   CARRIER_CASE = true;
+
 
   carrier.begin();
 }
-
-
-// En la función Loop, se empieza leyendo los valores de temperatura y humedad del sensor mediante los metodos de readTemperature(). Luego, se actualizan los botones tactiles mediante el metodo de update. Continuando con el codigo, los valores de la temperatura y humedad se imprimen en el monitor de manera serial, cada uno acompañado de caracteres tipo string. Por ultimo, si se detecta el boton TOUCH0 o TOUCH1, se llaman a las funciones de Temperatura y Humedad respectivamente.
-
+// En la función Loop, se empieza leyendo los valores de temperatura y humedad del sensor mediante los metodos de readTemperature(). Luego, se actualizan los botones tactiles mediante el metodo de update. Continuando con el codigo, los valores de la temperatura y humedad se imprimen en el monitor de manera serial, cada uno acompañado de caracteres tipo string. Por ultimo, si se detecta el boton TOUCH0 o TOUCH1, se llaman a las funciones de Temperatura y Humedad respectivamente. 
 void loop() {
-
   temperature = carrier.Env.readTemperature();
-  
   humidity = carrier.Env.readHumidity();
  
-
   carrier.Buttons.update();
  
-
   Serial.print("Temperature = ");
-
   Serial.print(temperature);
-
   Serial.println("  °C");
  
-
   Serial.print("Humidity = ");
-
   Serial.print(humidity);
-
   Serial.println(" %");
  
-
   if (carrier.Buttons.onTouchDown(TOUCH0)) {
-
     printTemperature();
-
   }
  
   if (carrier.Buttons.onTouchDown(TOUCH1)) {
-
     printHumidity();
-
   }
 }
  
-// Estas dos ultimas funciones están diseñadas para configurar la pantalla conectada al modulo Carrier y mostrar los valores de temperatura o humedad (de acuerdo a como se seleccione con los TOUCH´s ya mencionados), variando en el texto así como en el tamaño y color de este.
-
+// Estas dos ultimas funciones están diseñadas para configurar la pantalla conectada al modulo Carrier y mostrar los valores de temperatura o humedad (de acuerdo a como se seleccione con los TOUCH´s ya mencionados), variando en el texto así como en el tamaño y color de este. 
 void printTemperature() {
 
 
   carrier.display.fillScreen(ST77XX_RED); //red background
-
   carrier.display.setTextColor(ST77XX_WHITE); //white text
-
   carrier.display.setTextSize(6); //large sized text
  
-
-
   carrier.display.setCursor(30, 50); //sets position for printing (x and y)
-
   carrier.display.print("Temp: ");
-
   carrier.display.setTextSize(4); //decreasing text size
-
   carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
-
   carrier.display.print(temperature);
-
   carrier.display.print(" C");
-
 }
  
 void printHumidity() {
 
 
   carrier.display.fillScreen(ST77XX_BLUE); //red background
-
   carrier.display.setTextColor(ST77XX_WHITE); //white text
-
   carrier.display.setTextSize(2); //medium sized text
-
-
  
   carrier.display.setCursor(20, 110); //sets position for printing (x and y)
-
   carrier.display.print("Humi: ");
-
   carrier.display.print(humidity);
-
   carrier.display.println(" %");
-
 }
-
+```
 
 
 Evidencia del resultado:
