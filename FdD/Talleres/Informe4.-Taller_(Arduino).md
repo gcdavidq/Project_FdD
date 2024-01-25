@@ -1,6 +1,6 @@
-                   ## FACULTAD DE CIENCIAS E INGENIERÍA
+# FACULTAD DE CIENCIAS E INGENIERÍA
 
-### **“Alberto Cazorla Talleri”**
+## **“Alberto Cazorla Talleri”**
 
 ## INFORME DE LABORATORIO N.º 04
 
@@ -8,7 +8,7 @@
 
 
 
-## **DOCENTES:**
+#### **DOCENTES:**
 
 - UMBERT LEWIS DE LA CRUZ RODRIGUEZ
 - MOISES STEVEND MEZA RODRIGUEZ
@@ -18,10 +18,9 @@
 - JUAN MANUEL ZUÑIGA MAMANI
 
     **LIMA - PERÚ**
-
        **2024**
 
-## **INTRODUCCIÓN:**
+## **1. INTRODUCCIÓN:**
 
 En el presente informe de laboratorio, se dará a conocer acerca de lo que se desarrolló en la sesión N° 04 del día 24/01/2024, en donde nos introducimos al uso de Arduino nano 33 IoT, con ayuda de otros componentes como la Arduino MKR Wifi 1010, la cual es una placa microcontroladora con un chip que permite realizar conexiones inalámbricas a otras placas u ordenadores a través del bluetooth y wifi, la MKR IoT Carrier que es una extensión de la placa Arduino MKR Wifi 1010, esta placa no dispone de un microcontrolador, es por ello que solo funciona siempre y cuando una placa Arduino MKR esté conectada a ella, asimismo, contiene todos los circuitos y sensores ya integrados, permitiendo que nos concentremos mejor en la programación y el Cable Micro USB el cual permitirá conectar a la MKR IoT Carrier al ordenador o laptop (1).
 
