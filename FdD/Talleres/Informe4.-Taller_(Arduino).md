@@ -392,38 +392,17 @@ Nota: No tenemos las evidencias correspondientes a este ejercicio porque tuvimos
 ### 5. COMENTARIOS
 
 En la actividad, hemos explorado los dos elementos centrales de nuestro conjunto: la placa Arduino MKR WiFi 1010 y la MKR IoT Carrier. Además, hemos realizado pruebas para familiarizarnos con algunas de sus funciones, como la lectura de temperatura y humedad, la utilización de la pantalla de la portadora, y finalmente, hemos adquirido conocimientos sobre cómo emplear los botones capacitivos de la MKR IoT Carrier.
-Integración de sensores: Al combinar sensores como el HTS221 con actuadores como luces LED en Arduino, se logra la creación de sistemas simples pero eficaces para responder a condiciones ambientales específicas.
+
+1. Integración de sensores: Al combinar sensores como el HTS221 con actuadores como luces LED en Arduino, se logra la creación de sistemas simples pero eficaces para responder a condiciones ambientales específicas.
  
-Programación Lógica: La programación lógica basada en umbrales facilita la toma de decisiones para activar o desactivar dispositivos en respuesta a cambios en las variables medidas, como la temperatura y la humedad, en este caso.
+2. Programación Lógica: La programación lógica basada en umbrales facilita la toma de decisiones para activar o desactivar dispositivos en respuesta a cambios en las variables medidas, como la temperatura y la humedad, en este caso.
 
-Adaptabilidad y Personalización: La modularidad y flexibilidad de Arduino permiten ajustar fácilmente el código a diferentes situaciones, posibilitando la personalización del sistema según los requisitos específicos del usuario.
-
-Adaptabilidad y Personalización: La modularidad y flexibilidad de Arduino permiten ajustar fácilmente el código a diferentes situaciones, posibilitando la personalización del sistema según los requisitos específicos del usuario.
+3. Adaptabilidad y Personalización: La modularidad y flexibilidad de Arduino permiten ajustar fácilmente el código a diferentes situaciones, posibilitando la personalización del sistema según los requisitos específicos del usuario.
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-REFERENCIAS BIBLIOGRÁFICAS:
+### REFERENCIAS BIBLIOGRÁFICAS:
 
 Explore IoT Kit [Internet]. [citado 24 de enero de 2024]. Disponible en: https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/internet-of-things
 
