@@ -183,8 +183,11 @@ float temperature = 0;
 float humidity = 0;
 bool celsius = true;  // Variable para almacenar la unidad actual de temperatura
 bool kelvin = false;  // Variable para almacenar si se muestra la temperatura en Kelvin
+```
 
 //Aparte de lo explicado en el primer ejercicio, se ha agregado un delay para abrir el setup y ver detalles de errores si existieran:
+
+```cpp
 void setup() {
   Serial.begin(9600);
   delay(1500);  
