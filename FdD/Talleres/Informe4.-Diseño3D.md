@@ -159,7 +159,7 @@ El archivo solicitado para este proceso es STL, formato más usado para la impre
 <i>Figura 16.</i> Configuración semifinal del archivo para su impresión. Elaboración propia.
 </p>
 
-Finalmente, una vez Laminado se calculó el tiempo de impresión (31 minutos) para enviarlo a través de la nube a un servidor de la propia impresora permitiéndonos obtener un modelo de case para arduino uno de forma física con un tamaño de . 
+Finalmente, una vez Laminado se calculó el tiempo de impresión (31 minutos) para enviarlo a través de la nube a un servidor de la propia impresora permitiéndonos obtener un modelo de case para arduino uno de forma física con un tamaño de 70 mm de largo, 55 mm de ancho y 10 mm de profundidad. 
 
 <p align= "center">
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/d141.-%20representaci%C3%B3n%20de%20capas.jpg" alt="imagen del grupo" width="600px"/>
