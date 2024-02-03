@@ -57,8 +57,9 @@ Durante este ejercicio se nos enseñó otra forma de elaborar un objeto con la t
 
 En este segundo ejercicio hemos realizado la elaboración de un vaso cilíndrico en 3D con un diámetro de 60 mm. Se inició con la cara de arriba (top) dándole forma a la base del vaso. Luego creamos un boceto (sketch) para darle la forma alargada con una altura de 80 mm, después presionamos la opción girar para poder observar el boceto en las 3 dimensiones.
 
+
 <div style="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/b1.-Cara_de%20arriba(top)%20en%20vista%20normal.jpg" width="300px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/b11.-%20Forma%20frontal%20en%202D.jpg" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/b11.-%20Forma%20frontal%20en%202D.jpg" width="150px"/>
 </div>
 
 ***Figura 6:***  Cara de arriba(top) en vista normal. Elaboración propia. | ***Figura 7:***  Forma frontal en 2D del vaso cilíndrico. Elaboración propia.
