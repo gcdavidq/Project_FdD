@@ -41,9 +41,12 @@ Durante este ejercicio se nos enseñó otra forma de elaborar un objeto con la t
 
 ***Figura 2:***  Cara frontal en vista normal. Elaboración propia. | ***Figura 3:***  Forma y medidas en 2D del vaso que queremos representar. Elaboración propia.
 
-<div style="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a13.-Elaboraci%C3%B3n_de_un_vaso.jpeg" width="300px"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a13.-Elaboraci%C3%B3n_de_un_vaso.jpeg" width="300px"/>
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a14.-vaso_final.jpg" width="300px"/>
 </div>
+
+
 
 ***Figura 4:***  Selección de la opción revolve (girar). Elaboración propia. | ***Figura 5:***  Representación final del vaso. Elaboración propia.
 
