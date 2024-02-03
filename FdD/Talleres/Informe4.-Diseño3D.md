@@ -131,7 +131,7 @@ La Universidad Peruana Cayetano Heredia, tiene a disposición impresoras como la
 <i>Figura 14.</i> Impresora Bambu Lab. Elaboración propia.
 </p>
 
-El archivo solicitado para este proceso es STL, formato más usado para la impresión en 3D y se recomienda una vista panorámica para imprimir. Se requiere de diversos parámetros de acuerdo con las necesidades y al tipo de impresora. Un punto para considerar es la altura de capa, a menor altura de capa mayor resolución al igual que las boquillas porque estas varían pero se suele trabajar entre 20 y 80%.
+El archivo solicitado para este proceso es STL, formato más usado para la impresión en 3D y se recomienda una vista TOP para imprimir. Se requiere de diversos parámetros de acuerdo con las necesidades y al tipo de impresora. Un punto para considerar es la altura de capa, a menor altura de capa mayor resolución al igual que las boquillas porque estas varían pero se suele trabajar entre 20 y 80%.
 
 <p align= "center">
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/d13.-%20Representaci%C3%B3n%20del%20archivo%20en%20STL.jpg" alt="imagen del grupo" width="600px"/>
