@@ -29,6 +29,8 @@ En el presente informe, se dará a conocer acerca de lo que se desarrolló en la
 <i>Figura 1.</i> Foto grupal. Elaboración propia.
 </p>
 
+En este laboratorio hemos trabajado con Onshape el cual es un software de diseño 3D que nos permite crear, editar y colaborar en tiempo real, sin necesidad de instalaciones locales ni archivos físicos. Gracias a ello hemos podido realizar diferentes bocetos que nos permitieron familiarizarse con este software, de tal manera que nos sea un poco más fácil y manejable al momento de realizar bocetos de nuestro propio proyecto. 
+
 
 **1. Modelado 3D: Elaboración de un vaso**
 
