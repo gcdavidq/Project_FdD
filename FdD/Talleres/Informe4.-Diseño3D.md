@@ -22,7 +22,7 @@
 En el presente informe, se dará a conocer acerca de lo que se desarrolló en la sesión N° 5 del día 02/02/2024, en donde nos introducimos al conocimiento del manejo del modelado 3D, con los cuales se realizaron ciertas actividades que nos permitieron completar los objetivos propuestos para la presente sección que a continuación pasan a ser más detallados.
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a1.-foto_grupal.jpeg" alt="imagen del grupo" width="1000px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a1.-foto_grupal.jpeg" alt="imagen del grupo" width="300px"/>
 </p>
 
 
