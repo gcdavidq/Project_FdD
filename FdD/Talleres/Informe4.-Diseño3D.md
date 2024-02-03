@@ -74,3 +74,25 @@ En este segundo ejercicio hemos realizado la elaboración de un vaso cilíndrico
 <i>Figura 8.</i> Vaso cilíndrico en 3D. Elaboración propia.
 </p>
 
+
+**3. Modelado 3D: Elaboración de una taza**
+
+
+Después de crear este boceto (vaso cilíndrico), pasamos a realizar una taza en 3D. Primero colocamos la forma de la taza que vamos a elaborar, luego agregamos la forma del asa  en el lugar correspondiente teniendo así una vista en 2D, finalmente, presionamos la opción revolver (girar)  para poder observar el boceto en las 3 dimensiones.
+
+<div style="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/c1.-%20Vista%20normal%20de%20la%20forma%20de%20la%20taza.jpg" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/c11.-Taza%20en%202D.jpg" width="300px"/>
+</div>
+
+***Figura 9:***  Vista normal de la forma de la taza. Elaboración propia. | 
+
+***Figura 10:***  Taza en 2D. Elaboración propia.
+
+<div style="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/c12.-%20Taza%20en%203D.jpg" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/c13.-%20Taza%20en%203D.jpg" width="300px"/>
+</div>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 11.</i> Taza en 3D. Elaboración propia.
+</p>
+
