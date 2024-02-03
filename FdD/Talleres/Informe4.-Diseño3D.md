@@ -35,11 +35,19 @@ En el presente informe, se dará a conocer acerca de lo que se desarrolló en la
 Durante este ejercicio se nos enseñó otra forma de elaborar un objeto con la técnica del duplicado o revolución. Iniciamos posicionando la cara frontal en vista normal, luego creamos un sketch (boceto) con el puntero línea dándole la forma y las medidas en 2D del objeto que queremos representar, en este caso un vaso, luego presionando la opción de revolve (girar) y seleccionando el contorno del objeto que queremos duplicar se logra obtener el objeto completo en este caso un vaso en 3 dimensiones con un radio mayor y menor de 80 mm y 40 mm de diámetro, esta es una técnica más rápida de crear objetos a diferencia de la técnica aplicada en el ejercicio 01. 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a11.-%20Cara_frontal.jpg" width="600px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a12.-medidas.jpg" width="600px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a11.-%20Cara_frontal.jpg" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a12.-medidas.jpg" width="300px"/>
 </div>
 
-***Figura 2:*** Visualización de la humedad del ambiente en el display. Elaboración propia. | ***Figura 3:*** Visualización de la temperatura del ambiente en el display. Elaboración propia.
+***Figura 2:***  Cara frontal en vista normal. Elaboración propia. | ***Figura 3:***  Forma y medidas en 2D del vaso que queremos representar. Elaboración propia.
+
+<div style="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a13.-Elaboraci%C3%B3n_de_un_vaso.jpeg" width="300px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a14.-vaso_final.jpg" width="300px"/>
+</div>
+
+***Figura 4:***  Selección de la opción revolve (girar). Elaboración propia. | ***Figura 5:***  Representación final del vaso. Elaboración propia.
+
+
 
 **2. Modelado 3D: Elaboración de una taza**
 
