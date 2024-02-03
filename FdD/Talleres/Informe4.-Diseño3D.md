@@ -245,3 +245,14 @@ Finalmente, una vez Laminado se calculó el tiempo de impresión (31 minutos) pa
 <i>Figura 20.</i> Representación física de la modelación de un case para Arduino en 3D. Elaboración propia.
 </p>
 
+
+## **Evidencia del trabajo realizado en clase**
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/e1.-%20evidencia.jpg" alt="imagen del grupo" width="600px"/>
+</p>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 21.</i> Evidencia de los experimentos realizados. Elaboración propia.
+</p>
+
