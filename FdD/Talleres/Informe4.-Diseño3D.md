@@ -80,33 +80,64 @@ En este segundo ejercicio hemos realizado la elaboración de un vaso cilíndrico
 
 Después de crear este boceto (vaso cilíndrico), pasamos a realizar una taza en 3D. Primero colocamos la forma de la taza que vamos a elaborar, luego agregamos la forma del asa  en el lugar correspondiente teniendo así una vista en 2D, finalmente, presionamos la opción revolver (girar)  para poder observar el boceto en las 3 dimensiones.
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/c1.-%20Vista%20normal%20de%20la%20forma%20de%20la%20taza.jpg" width="300px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/c11.-Taza%20en%202D.jpg" width="300px"/>
-</div>
-
-***Figura 9:***  Vista normal de la forma de la taza. Elaboración propia. | ***Figura 10:***  Taza en 2D. Elaboración propia.
-
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/c12.-%20Taza%20en%203D.jpg" width="300px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/c13.-%20Taza%20en%203D.jpg" width="300px"/>
-</div>
-
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/c1.-%20Vista%20normal%20de%20la%20forma%20de%20la%20taza.jpg" alt="imagen del grupo" width="600px"/>
+</p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-<i>Figura 11.</i> Taza en 3D. Elaboración propia.
+<i>Figura 9.</i> Vista normal de la forma de la taza. Elaboración propia.
+</p>
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/c11.-Taza%20en%202D.jpg" alt="imagen del grupo" width="600px"/>
+</p>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 10.</i> Taza en 2D. Elaboración propia.
+</p>
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/c12.-%20Taza%20en%203D.jpg" alt="imagen del grupo" width="600px"/>
+</p>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 11.</i> Taza en 3D vista desde arriba. Elaboración propia.
+</p>
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/c13.-%20Taza%20en%203D.jpg" alt="imagen del grupo" width="600px"/>
+</p>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 12.</i> Taza en 3D . Elaboración propia.
 </p>
 
 
+
 ## **4. Modelado 3D: Elaboración de un case de arduino uno**
+
+Para la modelación del case de Arduino Uno se realizó lo siguiente:
+
+- Ubicarlo en un plano frontal.
+
+- Establecer las dimensiones de un Arduino real y añadir los contornos teniendo en cuenta las entradas.
+
+- Especificar las unidades de medida para la altura, largo y ancho en este caso se trabajo en milímetros (mm).
+
+- Utilizar la función “Lineal” para realizar el marco de la placa y poder  agregar las medidas correspondientes.
+
+- Utilizar la función “Shelf” para eliminar el relleno y poder introducir el Arduino.
+
+- Usando la función “Part 1” permitió añadir color al modelo terminado.
+
+- Finalmente se exporta  el archivo en formato STL, para entrar a la parte de impresión en 3D.
 
 <p align= "center">
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/d1.-Gu%C3%ADa%20para%20dibujar%20la%20placa%20ARDUINO.jpg" alt="imagen del grupo" width="600px"/>
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-<i>Figura 12.</i> Guía para dibujar con precisión la placa ARDUINO. Elaboración propia.
+<i>Figura 13.</i> Guía para dibujar con precisión la placa ARDUINO. Elaboración propia.
 </p>
 
 
@@ -115,7 +146,7 @@ Después de crear este boceto (vaso cilíndrico), pasamos a realizar una taza en
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-<i>Figura 13.</i> Representación gráfica de la placa en el plano tridimensional. Elaboración propia.
+<i>Figura 14.</i> Representación gráfica de la placa en el plano tridimensional. Elaboración propia.
 </p>
 
 ### **PROCESO DE IMPRESIÓN EN 3D**
@@ -128,7 +159,7 @@ La Universidad Peruana Cayetano Heredia, tiene a disposición impresoras como la
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-<i>Figura 14.</i> Impresora Bambu Lab. Elaboración propia.
+<i>Figura 15.</i> Impresora Bambu Lab. Elaboración propia.
 </p>
 
 El archivo solicitado para este proceso es STL, formato más usado para la impresión en 3D y se recomienda una vista panorámica para imprimir. Se requiere de diversos parámetros de acuerdo con las necesidades y al tipo de impresora. Un punto para considerar es la altura de capa, a menor altura de capa mayor resolución al igual que las boquillas porque estas varían pero se suele trabajar entre 20 y 80%.
@@ -138,7 +169,7 @@ El archivo solicitado para este proceso es STL, formato más usado para la impre
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-<i>Figura 15.</i> Representación del archivo en STL. Elaboración propia.
+<i>Figura 16.</i> Representación del archivo en STL. Elaboración propia.
 </p>
 
 
@@ -156,7 +187,7 @@ El archivo solicitado para este proceso es STL, formato más usado para la impre
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-<i>Figura 16.</i> Configuración semifinal del archivo para su impresión. Elaboración propia.
+<i>Figura 17.</i> Configuración semifinal del archivo para su impresión. Elaboración propia.
 </p>
 
 Finalmente, una vez Laminado se calculó el tiempo de impresión (31 minutos) para enviarlo a través de la nube a un servidor de la propia impresora permitiéndonos obtener un modelo de case para arduino uno de forma física con un tamaño de 72 mm de largo, 55 mm de ancho y 10 mm de profundidad. 
@@ -166,7 +197,7 @@ Finalmente, una vez Laminado se calculó el tiempo de impresión (31 minutos) pa
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-<i>Figura 17.</i> Representación del laminado de capas. Elaboración propia.
+<i>Figura 18.</i> Representación del laminado de capas. Elaboración propia.
 </p>
 
 
@@ -175,7 +206,7 @@ Finalmente, una vez Laminado se calculó el tiempo de impresión (31 minutos) pa
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-<i>Figura 18.</i> Proceso de impresión en 3D utilizando la impresora Bambu Lab. Elaboración propia.
+<i>Figura 19.</i> Proceso de impresión en 3D utilizando la impresora Bambu Lab. Elaboración propia.
 </p>
 
 <p align= "center">
@@ -183,6 +214,6 @@ Finalmente, una vez Laminado se calculó el tiempo de impresión (31 minutos) pa
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-<i>Figura 19.</i> Representación física de la modelación de un case para Arduino en 3D. Elaboración propia.
+<i>Figura 20.</i> Representación física de la modelación de un case para Arduino en 3D. Elaboración propia.
 </p>
 
