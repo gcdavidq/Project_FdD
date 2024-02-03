@@ -52,7 +52,7 @@ Durante este ejercicio se nos enseñó otra forma de elaborar un objeto con la t
 
 
 
-**2. Modelado 3D: Elaboración de una taza**
+**2. Modelado 3D: Elaboración de un vaso cilíndrico**
 
 
 En este segundo ejercicio hemos realizado la elaboración de un vaso cilíndrico en 3D con un diámetro de 60 mm. Se inició con la cara de arriba (top) dándole forma a la base del vaso. Luego creamos un boceto (sketch) para darle la forma alargada con una altura de 80 mm, después presionamos la opción girar para poder observar el boceto en las 3 dimensiones.
