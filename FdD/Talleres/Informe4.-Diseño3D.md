@@ -45,7 +45,7 @@ Durante este ejercicio se nos enseñó otra forma de elaborar un objeto con la t
 </p>
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a13.-Elaboraci%C3%B3n_de_un_vaso.jpeg" alt="imagen del grupo" width="600px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a12.-medidas.jpg" alt="imagen del grupo" width="600px"/>
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
@@ -54,7 +54,7 @@ Durante este ejercicio se nos enseñó otra forma de elaborar un objeto con la t
 
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a13.-Elaboraci%C3%B3n_de_un_vaso.jpe" alt="imagen del grupo" width="600px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a13.-Elaboraci%C3%B3n_de_un_vaso.jpeg" alt="imagen del grupo" width="600px"/>
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
