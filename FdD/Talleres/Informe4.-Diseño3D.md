@@ -85,9 +85,12 @@ Después de crear este boceto (vaso cilíndrico), pasamos a realizar una taza en
 
 ***Figura 9:***  Vista normal de la forma de la taza. Elaboración propia. | ***Figura 10:***  Taza en 2D. Elaboración propia.
 
-<div style="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/c12.-%20Taza%20en%203D.jpg" width="300px"/>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/c12.-%20Taza%20en%203D.jpg" width="300px"/>
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/c13.-%20Taza%20en%203D.jpg" width="300px"/>
 </div>
+
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
 <i>Figura 11.</i> Taza en 3D. Elaboración propia.
