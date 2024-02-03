@@ -62,7 +62,9 @@ En este segundo ejercicio hemos realizado la elaboración de un vaso cilíndrico
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/b11.-%20Forma%20frontal%20en%202D.jpg" width="300px"/>
 </div>
 
-***Figura 6:***  Cara de arriba(top) en vista normal. Elaboración propia. | ***Figura 7:***  Forma frontal en 2D del vaso cilíndrico. Elaboración propia.
+***Figura 6:***  Cara de arriba(top) en vista normal. Elaboración propia. | 
+
+***Figura 7:***  Forma frontal en 2D del vaso cilíndrico. Elaboración propia.
 
 <p align= "center">
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/b12.-%20Vaso%20cil%C3%ADndrico%20en%203D.jpg" alt="imagen del grupo" width="600px"/>
