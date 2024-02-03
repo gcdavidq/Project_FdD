@@ -162,11 +162,20 @@ El archivo solicitado para este proceso es STL, formato más usado para la impre
 Finalmente, una vez Laminado se calculó el tiempo de impresión (31 minutos) para enviarlo a través de la nube a un servidor de la propia impresora permitiéndonos obtener un modelo de case para arduino uno de forma física con un tamaño de . 
 
 <p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/d141.-%20representaci%C3%B3n%20de%20capas.jpg" alt="imagen del grupo" width="600px"/>
+</p>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 17.</i> Representación del laminado de capas. Elaboración propia.
+</p>
+
+
+<p align= "center">
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/d15.-%20Proceso%20de%20impresi%C3%B3n%20en%203D.jpg" alt="imagen del grupo" width="600px"/>
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-<i>Figura 17.</i> Proceso de impresión en 3D utilizando la impresora Bambu Lab. Elaboración propia.
+<i>Figura 18.</i> Proceso de impresión en 3D utilizando la impresora Bambu Lab. Elaboración propia.
 </p>
 
 <p align= "center">
@@ -174,6 +183,6 @@ Finalmente, una vez Laminado se calculó el tiempo de impresión (31 minutos) pa
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-<i>Figura 18.</i> Representación física de la modelación de un case para Arduino en 3D. Elaboración propia.
+<i>Figura 19.</i> Representación física de la modelación de un case para Arduino en 3D. Elaboración propia.
 </p>
 
