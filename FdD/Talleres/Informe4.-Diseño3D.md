@@ -32,7 +32,7 @@ En el presente informe, se dará a conocer acerca de lo que se desarrolló en la
 En este laboratorio hemos trabajado con Onshape el cual es un software de diseño 3D que nos permite crear, editar y colaborar en tiempo real, sin necesidad de instalaciones locales ni archivos físicos. Gracias a ello hemos podido realizar diferentes bocetos que nos permitieron familiarizarse con este software, de tal manera que nos sea un poco más fácil y manejable al momento de realizar bocetos de nuestro propio proyecto. 
 
 
-**1. Modelado 3D: Elaboración de un vaso**
+## **1. Modelado 3D: Elaboración de un vaso**
 
 Durante este ejercicio se nos enseñó otra forma de elaborar un objeto con la técnica del duplicado o revolución. Iniciamos posicionando la cara frontal en vista normal, luego creamos un sketch (boceto) con el puntero línea dándole la forma y las medidas en 2D del objeto que queremos representar, en este caso un vaso, luego presionando la opción de revolve (girar) y seleccionando el contorno del objeto que queremos duplicar se logra obtener el objeto completo en este caso un vaso en 3 dimensiones con un radio mayor y menor de 80 mm y 40 mm de diámetro, esta es una técnica más rápida de crear objetos a diferencia de la técnica aplicada en el ejercicio 01. 
 
@@ -54,7 +54,7 @@ Durante este ejercicio se nos enseñó otra forma de elaborar un objeto con la t
 
 
 
-**2. Modelado 3D: Elaboración de un vaso cilíndrico**
+## **2. Modelado 3D: Elaboración de un vaso cilíndrico**
 
 
 En este segundo ejercicio hemos realizado la elaboración de un vaso cilíndrico en 3D con un diámetro de 60 mm. Se inició con la cara de arriba (top) dándole forma a la base del vaso. Luego creamos un boceto (sketch) para darle la forma alargada con una altura de 80 mm, después presionamos la opción girar para poder observar el boceto en las 3 dimensiones.
@@ -75,7 +75,7 @@ En este segundo ejercicio hemos realizado la elaboración de un vaso cilíndrico
 </p>
 
 
-**3. Modelado 3D: Elaboración de una taza**
+## **3. Modelado 3D: Elaboración de una taza**
 
 
 Después de crear este boceto (vaso cilíndrico), pasamos a realizar una taza en 3D. Primero colocamos la forma de la taza que vamos a elaborar, luego agregamos la forma del asa  en el lugar correspondiente teniendo así una vista en 2D, finalmente, presionamos la opción revolver (girar)  para poder observar el boceto en las 3 dimensiones.
@@ -97,4 +97,7 @@ Después de crear este boceto (vaso cilíndrico), pasamos a realizar una taza en
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
 <i>Figura 11.</i> Taza en 3D. Elaboración propia.
 </p>
+
+
+## **4. Modelado 3D: Elaboración de un case de arduino uno**
 
