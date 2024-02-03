@@ -36,21 +36,39 @@ En este laboratorio hemos trabajado con Onshape el cual es un software de diseñ
 
 Durante este ejercicio se nos enseñó otra forma de elaborar un objeto con la técnica del duplicado o revolución. Iniciamos posicionando la cara frontal en vista normal, luego creamos un sketch (boceto) con el puntero línea dándole la forma y las medidas en 2D del objeto que queremos representar, en este caso un vaso, luego presionando la opción de revolve (girar) y seleccionando el contorno del objeto que queremos duplicar se logra obtener el objeto completo en este caso un vaso en 3 dimensiones con un radio mayor y menor de 80 mm y 40 mm de diámetro, esta es una técnica más rápida de crear objetos a diferencia de la técnica aplicada en el ejercicio 01. 
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a11.-%20Cara_frontal.jpg" width="300px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a12.-medidas.jpg" width="300px"/>
-</div>
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a11.-%20Cara_frontal.jpg" alt="imagen del grupo" width="600px"/>
+</p>
 
-***Figura 2:***  Cara frontal en vista normal. Elaboración propia. | ***Figura 3:***  Forma y medidas en 2D del vaso que queremos representar. Elaboración propia.
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a13.-Elaboraci%C3%B3n_de_un_vaso.jpeg" width="300px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a14.-vaso_final.jpg" width="150px"/>
-</div>
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 2.</i> Cara frontal en vista normal. Elaboración propia.
+</p>
 
 
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a12.-medidas.jpg" alt="imagen del grupo" width="600px"/>
+</p>
 
-***Figura 4:***  Selección de la opción revolve (girar). Elaboración propia. | ***Figura 5:***  Representación final del vaso. Elaboración propia.
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 3.</i> PForma y medidas en 2D del vaso que queremos representar. Elaboración propia.
+</p>
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a13.-Elaboraci%C3%B3n_de_un_vaso.jpe" alt="imagen del grupo" width="600px"/>
+</p>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 4.</i> Selección de la opción revolve (girar). Elaboración propia.
+</p>
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/a14.-vaso_final.jpg" alt="imagen del grupo" width="600px"/>
+</p>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 5.</i> Representación final del vaso. Elaboración propia.
+</p>
+
 
 
 
@@ -59,12 +77,22 @@ Durante este ejercicio se nos enseñó otra forma de elaborar un objeto con la t
 
 En este segundo ejercicio hemos realizado la elaboración de un vaso cilíndrico en 3D con un diámetro de 60 mm. Se inició con la cara de arriba (top) dándole forma a la base del vaso. Luego creamos un boceto (sketch) para darle la forma alargada con una altura de 80 mm, después presionamos la opción girar para poder observar el boceto en las 3 dimensiones.
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/b1.-Cara_de%20arriba(top)%20en%20vista%20normal.jpg" width="300px"/>
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/b11.-%20Forma%20frontal%20en%202D.jpg" width="300px"/>
-</div>
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/b1.-Cara_de%20arriba(top)%20en%20vista%20normal.jpg" alt="imagen del grupo" width="600px"/>
+</p>
 
-***Figura 6:***  Cara de arriba(top) en vista normal. Elaboración propia. | ***Figura 7:***  Forma frontal en 2D del vaso cilíndrico. Elaboración propia.
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 6.</i> Cara de arriba(top) en vista normal. Elaboración propia.
+</p>
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/b11.-%20Forma%20frontal%20en%202D.jpg" alt="imagen del grupo" width="600px"/>
+</p>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 7.</i> Forma frontal en 2D del vaso cilíndrico. Elaboración propia.
+</p>
+
 
 <p align= "center">
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/b12.-%20Vaso%20cil%C3%ADndrico%20en%203D.jpg" alt="imagen del grupo" width="600px"/>
