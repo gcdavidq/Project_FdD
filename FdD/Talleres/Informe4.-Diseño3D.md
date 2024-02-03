@@ -163,6 +163,7 @@ Finalmente, una vez Laminado se calculó el tiempo de impresión (31 minutos) pa
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/d15.-%20Proceso%20de%20impresi%C3%B3n%20en%203D.jpg" width="300px"/>
+  
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/Photos_lab4/d16.-%20Representaci%C3%B3n%20f%C3%ADsica%20en%203D.jpg" width="300px"/>
 </div>
 
