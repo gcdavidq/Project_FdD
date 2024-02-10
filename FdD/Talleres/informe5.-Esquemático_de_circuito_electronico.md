@@ -1,3 +1,25 @@
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+  <h1 align="center" style="margin-top: 60px; margin-bottom: 20px; font-size: 4em;">FACULTAD DE CIENCIAS E INGENIERÍA</h1>
+  <p align="center">
+    <img src="https://3.files.edl.io/fdf6/22/05/20/143302-79bed48a-5422-4ab4-81ec-98e0f944c4a0.png" width="300" alt="Facultad de Ciencias e ingeniería logo">
+  </p>  
+</p>
+
+## INFORME DE LABORATORIO N.º 05: DISEÑO 3D
+
+#### **DOCENTES:**
+
+- UMBERT LEWIS DE LA CRUZ RODRIGUEZ
+- MOISES STEVEND MEZA RODRIGUEZ
+- HARRY ANDERSON RIVERA TITO
+- PAULO CAMILO ALBERTO VELA ANTON
+- RENZO JOSE CHAN RIOS
+- JUAN MANUEL ZUÑIGA MAMANI
+
+    **LIMA - PERÚ**
+        **2024**
+
+        
 # **INFORME DE LABORATORIO N.°5: ESQUEMÁTICO DEL CIRCUITO ELECTRÓNICO**
 
 En el presente informe, se dará a conocer acerca de lo que se desarrolló en la sesión N° 5 del día 09/02/2024, en donde hemos aprendido el manejo de FLUX.AI esta es una herramienta qué nos ha permitido elaborar diseños de circuitos eléctricos que a continuación pasan a ser mejor detallados. 
