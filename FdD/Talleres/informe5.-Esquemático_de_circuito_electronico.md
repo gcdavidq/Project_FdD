@@ -63,6 +63,114 @@ Una vez de haber finalizado con el diseño del esquemático de circuitos pasamos
 
 ## **2.ELABORACIÓN DE UN ESQUEMÁTICO DEL CIRCUITO ELECTRÓNICO BASADO EN NUESTRO PROYECTO**
 
+Después de haber realizado el ejemplo anterior procedimos a realizar un circuito electrónico de nuestro proyecto, en el cual se solicitó implementar como mínimo 6 componentes y posterior a ello describir su funcionamiento dentro de la conexión. 
+
+### **Componentes:** 
+
+**1 Raspberry Pi:** Es una minicomputadora funcional muy económica con un conjunto de pines (entradas y salidas), un microcontrolador, considerada como uno de los componentes esenciales del sistema ya que contiene un procesador, memoria, un controlador y además tiene la capacidad. de conectarse a una computadora o TV.
+
+**2 servomotores:** Este elemento permite cerrar la compuerta una vez que los residuos valorables hayan sido reconocidos, funcionando como un seguro y brindando mayor estabilidad al sistema.
+
+**2 motorreductores:** En el sistema cumplen la función de  gestionar los residuos, ya que permiten la apertura de la puerta, después de que los deshechos ya han sido identificados previamente (latas y botellas).
+
+**1 sensor ultrasónico:** Este componente nos permitirá medir la distancia de proximidad a la cual se encuentran los objetos (residuos) mediante el sonido y posterior a ello su identificación.
+
+**3 baterías (15V, 5.5V y 5V):** Las baterías son componentes esenciales en muchos circuitos ya que suministran y almacenan la energía, regulan el voltaje y corriente y respuesta rápida a las demandas de energía.
+
+**Placa MLC 206:** Es un modelo específico de placa diseñada con un propósito en particular como control de potencia, procesamiento de señales, manejo de datos, etc.
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/3.-%20motorreductor.jpg" alt="imagen del grupo" width="500px"/>
+</p>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 7. </i> Representación de los motorreductores. Elaboración propia.
+</p>
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/3.1.-%20servomotores.jpg" alt="imagen del grupo" width="500px"/>
+</p>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 8. </i>  Representación de los servomotores. Elaboración propia.
+</p>
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/3.2.-%20senso%20ultras%C3%B3nico.jpg" alt="imagen del grupo" width="500px"/>
+</p>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 9. </i> Representación del sencor ultrasónico. Elaboración propia.
+</p>
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/3.3.-%20rasperry.jpg" alt="imagen del grupo" width="500px"/>
+</p>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 10. </i>  Representación del rasberry pi. Elaboración propia.
+</p>
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/3.4.-%20baterias.jpg" alt="imagen del grupo" width="500px"/>
+</p>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 11. </i>  Representación de las baterias. Elaboración propia.
+</p>
+
+**Descripción:**
+
+Se inició con una Raspberry pi, la cual está conectada a una placa MLS 206, que permitirá crear una conexión con los motorreductores, estos no se lograron encontrar en el programa, pero se utilizaron  conecciones  de 2 entradas qué simulan serlos, lo  mismo sucedió para el caso de los servomotores, pero a diferencia de los motorreductores se utilizaron conexiones de 3 entradas.Por otro lado, se utilizó un sensor ultrasónico y 3 baterías de 5, 12 y 5,5 voltios respectivamente, estos componentes si se lograron encontrar dentro del programa.
+
+## **CONEXIÓN DEL CIRCUITO**
+
+La primera conexión qué se hace es entre la raspberry pi y la placa MLS 206, ambos componentes están alimentados por las baterías de 5 y 12 voltios respectivamente, asimismo, dentro de esta placa también van conectados los 2 motorreductores. Por su parte el sensor ultrasónico y  los 2 servomotores están conectados directamente a la  raspberry pi estos últimos  están alimentados por la batería de 5,5 voltios, de igual manera sucede con el sensor ultrasónico. Finalmente, es importante mencionar que los GND (voltaje de tierra) de cada batería se unen con el GND de la raspberry pi. 
+
+
+### **2.1 Esquemático de circuito eléctrico BOX CAM de nuestro proyecto:**
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/3.5.-%20circuito.jpg" alt="imagen del grupo" width="500px"/>
+</p>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 12. </i>  Uso de FLUX.AI para la elaboración de la BOX CAM. Elaboración propia.
+</p>
+
+### **2.2 Esquemático de circuito eléctrico BOX CAM en 2D:**
+
+<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/3.6.-%20circuito%202D.jpg" alt="imagen del grupo" width="500px"/>
+</p>
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 13. </i>  Uso de FLUX.AI para la elaboración de la BOX CAM 2D. Elaboración propia.
+</p>
+
+### **2.3:  Circuito eléctrico BOX CAM en 3D:**
+
+<p align= "center">
+  <img src="<p align= "center">
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/3.6.-%20circuito%202D.jpg" alt="imagen del grupo" width="500px"/>
+</p>
+
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+<i>Figura 14. </i>  Uso de FLUX.AI para la elaboración de la BOX CAM 3D. Elaboración propia.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
