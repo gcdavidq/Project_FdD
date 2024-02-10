@@ -1,4 +1,4 @@
-# Laboratorio N° 03
+# Laboratorio N° 02
 
 ## Fundamentos de Electrónica I
 

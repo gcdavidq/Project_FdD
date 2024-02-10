@@ -5,7 +5,7 @@
   </p>  
 </p>
 
-## INFORME DE LABORATORIO N.º 05: DISEÑO 3D
+## INFORME DE LABORATORIO N.º 05: ESQUEMÁTICO DEL CIRCUITO ELECTRÓNICO
 
 #### **DOCENTES:**
 
@@ -19,8 +19,8 @@
     **LIMA - PERÚ**
         **2024**
 
-        
-# **INFORME DE LABORATORIO N.°5: ESQUEMÁTICO DEL CIRCUITO ELECTRÓNICO**
+
+
 
 En el presente informe, se dará a conocer acerca de lo que se desarrolló en la sesión N° 5 del día 09/02/2024, en donde hemos aprendido el manejo de FLUX.AI esta es una herramienta qué nos ha permitido elaborar diseños de circuitos eléctricos que a continuación pasan a ser mejor detallados. 
 

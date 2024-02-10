@@ -5,7 +5,7 @@
   </p>  
 </p>
 
-## INFORME DE LABORATORIO N.º 05: DISEÑO 3D
+## INFORME DE LABORATORIO N.º 04: DISEÑO 3D
 
 #### **DOCENTES:**
 
