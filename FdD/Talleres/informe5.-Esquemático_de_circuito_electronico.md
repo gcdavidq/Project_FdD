@@ -25,7 +25,7 @@ En primer lugar, se nos enseñó a realizar un ejemplo de un circuito eléctrico
 En segundo lugar, se añadió un foco led, tal como el que se muestra en la siguiente imagen:
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/3.-%20led.jpg" alt="imagen del grupo" width="500px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/2.1.-%20led.jpg" alt="imagen del grupo" width="500px"/>
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
@@ -35,7 +35,7 @@ En segundo lugar, se añadió un foco led, tal como el que se muestra en la sigu
 En tercer lugar, se añadió un conector con doble posición y 5 mm de separación, tal como se muestra en la siguiente imagen, esto con el fin de conectar ambos objetos antes seleccionados (resistor y led) y crear el circuito eléctrico.
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/4.-%20connector.jpg" alt="imagen del grupo" width="500px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/2.2.-%20connector.jpg" alt="imagen del grupo" width="500px"/>
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
@@ -43,7 +43,7 @@ En tercer lugar, se añadió un conector con doble posición y 5 mm de separaci�
 </p>
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/5.-%20conexi%C3%B3n.jpg" alt="imagen del grupo" width="500px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/2.3.-%20conexi%C3%B3n.jpg" alt="imagen del grupo" width="500px"/>
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
@@ -54,7 +54,7 @@ En tercer lugar, se añadió un conector con doble posición y 5 mm de separaci�
 Una vez de haber finalizado con el diseño del esquemático de circuitos pasamos a seleccionar en PCB para poder observar en 3D. Esto nos permite obtener una mejor visualización de nuestro circuito y poder verificar que las conexiones queden bien establecidas. 
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/6.-%20conexi%C3%B3n%203D.jpg" alt="imagen del grupo" width="500px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/2.4.-%20conexi%C3%B3n%203D.jpg" alt="imagen del grupo" width="500px"/>
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
@@ -112,7 +112,7 @@ Después de haber realizado el ejemplo anterior procedimos a realizar un circuit
 </p>
 
 <p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/3.4.-%20baterias.jpg" alt="imagen del grupo" width="500px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/3.4.-%20baterias.jpg" alt="imagen del grupo" width="100px"/>
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
@@ -151,14 +151,16 @@ La primera conexión qué se hace es entre la raspberry pi y la placa MLS 206, a
 ### **2.3:  Circuito eléctrico BOX CAM en 3D:**
 
 <p align= "center">
-  <img src="<p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/3.6.-%20circuito%202D.jpg" alt="imagen del grupo" width="500px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/3.7.-%20circuito%203D.jpg" alt="imagen del grupo" width="500px"/>
 </p>
-
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
 <i>Figura 14. </i>  Uso de FLUX.AI para la elaboración de la BOX CAM 3D. Elaboración propia.
 </p>
+
+### **LINK DE LA EVIDENCIA DE LOS CIRCUITOS ELECTONICOS ELABORADOS** 
+
+**https://www.flux.ai/joota/democratic-moccasin-point-of-view-gun?editor=pcb_3d**
 
 
 
