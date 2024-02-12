@@ -99,7 +99,7 @@ Después de haber realizado el ejemplo anterior procedimos a realizar un circuit
 
 **3 baterías (15V, 5.5V y 5V):** Las baterías son componentes esenciales en muchos circuitos ya que suministran y almacenan la energía, regulan el voltaje y corriente y respuesta rápida a las demandas de energía.
 
-**1 Placa MLC 206:** Es un modelo específico de placa diseñada con un propósito en particular como control de potencia, procesamiento de señales, manejo de datos, etc.
+**1 Placa MLS 206:** Es un modelo específico de placa diseñada con un propósito en particular como control de potencia, procesamiento de señales, manejo de datos, etc.
 
 <p align= "center">
   <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/photos_lab5/3.-%20motorreductor.jpg" alt="imagen del grupo" width="500px"/>
@@ -143,7 +143,7 @@ Después de haber realizado el ejemplo anterior procedimos a realizar un circuit
 
 ### **Descripción:**
 
-Se inició con una Raspberry pi, la cual está conectada a una placa MLS 206, que permitirá crear una conexión con los motorreductores, estos no se lograron encontrar en el programa, pero se utilizaron  conecciones  de 2 entradas qué simulan serlos, lo  mismo sucedió para el caso de los servomotores, pero a diferencia de los motorreductores se utilizaron conexiones de 3 entradas.Por otro lado, se utilizó un sensor ultrasónico y 3 baterías de 5, 12 y 5,5 voltios respectivamente, estos componentes si se lograron encontrar dentro del programa.
+Se inició con una Raspberry pi, la cual está conectada a una placa MLS 206, que permitirá crear una conexión con los motorreductores, estos no se lograron encontrar en el programa, pero se utilizaron  conexiones  de 2 entradas qué simulan serlos, lo  mismo sucedió para el caso de los servomotores, pero a diferencia de los motorreductores se utilizaron conexiones de 3 entradas.Por otro lado, se utilizó un sensor ultrasónico y 3 baterías de 5, 12 y 5,5 voltios respectivamente, estos componentes si se lograron encontrar dentro del programa.
 
 ## **CONEXIÓN DEL CIRCUITO**
 
