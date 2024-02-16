@@ -28,7 +28,7 @@ Finalmente, después de haber recorrido por estas 6 semanas enriquecedoras de tr
 ## **3.- REPRESENTACIÓN DE NUESTRO POYECTO FINAL** 
 
 </p><p align= "center">
-  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/L.-%20HITO%20N%C2%B0%2002/2.1.-%20portada%20secundar%C3%ADa%20del%20tr%C3%ADptico.jpg" alt="imagen del grupo" width="800px"/>
+  <img src="https://github.com/gcdavidq/Project_FdD/blob/main/Carpetas_del_Proyecto/Imagenes/L.-%20HITO%20N%C2%B0%2002/3.-%20Im%C3%A1gen%20final%20del%20proyecto.jpg" alt="imagen del grupo" width="600px"/>
 </p>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
