@@ -19,7 +19,7 @@
 # Proyecto:
 ----------------------------------
 ```python
-print("Python")
+print("Arcade Reciclador")
 
 ```
 
