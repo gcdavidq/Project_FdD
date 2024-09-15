@@ -19,7 +19,7 @@
 # Proyecto:
 ----------------------------------
 ```python
-print("En debate")
+print("Python")
 
 ```
 
